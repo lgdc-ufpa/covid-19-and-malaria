@@ -125,9 +125,9 @@ pairplot(df[['Falciparum', 'Vivax', 'Ano']][df['Ano'] >= 2020], hue='Ano', kind=
 
 pairplot(df[['Falciparum', 'Vivax', 'Ano']][df['Ano'] >= 2020], hue='Ano', kind='reg', diag_kind='kde').savefig(os.path.join(path_output, 'output_25.png'))
 
-###############
-# TODO: CATEGORICAL PLOT
-###############
+##########################
+# DONE: CATEGORICAL PLOT #
+##########################
 
 barplot(df, x='Estado', y='Falciparum').figure.savefig(os.path.join(path_output, 'output_26.png'))
 
@@ -146,3 +146,56 @@ barplot(df[df['Ano'] >= 2010], x='Estado', y='Vivax', hue='Ano').figure.savefig(
 barplot(df[df['Ano'] >= 2010], x='Ano', y='Falciparum', hue='Estado').figure.savefig(os.path.join(path_output, 'output_32.png'))
 
 barplot(df[df['Ano'] >= 2010], x='Ano', y='Vivax', hue='Estado').figure.savefig(os.path.join(path_output, 'output_33.png'))
+
+sns.set(rc={'figure.figsize': (10, 10)})
+
+countplot(df, x='Estado').set_title('Municípios por estado').figure.savefig(os.path.join(path_output, 'output_34.png'))
+
+boxplot(df, x='Estado', y='Falciparum').set_title('Falciparum por estado').figure.savefig(os.path.join(path_output, 'output_35.png'))
+
+boxplot(df, x='Ano', y='Falciparum').set_title('Falciparum por ano').figure.savefig(os.path.join(path_output, 'output_36.png'))
+
+boxplot(df, x='Estado', y='Vivax').set_title('Vivax por estado').figure.savefig(os.path.join(path_output, 'output_37.png'))
+
+boxplot(df, x='Ano', y='Vivax').set_title('Vivax por ano').figure.savefig(os.path.join(path_output, 'output_38.png'))
+
+sns.set(rc={'figure.figsize': (30, 10)})
+
+boxplot(df, x='Estado', y='Falciparum', hue='Ano').set_title('Falciparum por Estado e ano').figure.savefig(os.path.join(path_output, 'output_39.png'))
+
+boxplot(df, x='Ano', y='Falciparum', hue='Estado').set_title('Falciparum por ano e Estado').figure.savefig(os.path.join(path_output, 'output_40.png'))
+
+boxplot(df, x='Estado', y='Vivax', hue='Ano').set_title('Vivax por Estado e ano').figure.savefig(os.path.join(path_output, 'output_41.png'))
+
+boxplot(df, x='Ano', y='Vivax', hue='Estado').set_title('Vivax por ano e Estado').figure.savefig(os.path.join(path_output, 'output_42.png'))
+
+sns.set(rc={'figure.figsize': (20, 10)})
+
+violinplot(df, x='Estado', y='Falciparum').set_title('Falciparum por estado').figure.savefig(os.path.join(path_output, 'output_43.png'))
+
+violinplot(df, x='Ano', y='Falciparum').set_title('Falciparum por ano').figure.savefig(os.path.join(path_output, 'output_44.png'))
+
+violinplot(df, x='Estado', y='Vivax').set_title('Vivax por estado').figure.savefig(os.path.join(path_output, 'output_45.png'))
+
+violinplot(df, x='Ano', y='Vivax').set_title('Vivax por ano').figure.savefig(os.path.join(path_output, 'output_46.png'))
+
+sns.set(rc={'figure.figsize': (30, 10)})
+
+stripplot(df, x='Estado', y='Falciparum', hue='Ano', dodge=True).set_title('Falciparum por Estado e ano').figure.savefig(os.path.join(path_output, 'output_47.png'))
+
+stripplot(df, x='Ano', y='Falciparum', hue='Estado', dodge=True).set_title('Falciparum por ano e Estado').figure.savefig(os.path.join(path_output, 'output_48.png'))
+
+stripplot(df, x='Estado', y='Vivax', hue='Ano', dodge=True).set_title('Vivax por Estado e ano').figure.savefig(os.path.join(path_output, 'output_49.png'))
+
+stripplot(df, x='Ano', y='Vivax', hue='Estado', dodge=True).set_title('Vivax por ano e Estado').figure.savefig(os.path.join(path_output, 'output_50.png'))
+
+catplot(df, x='Ano', y='Falciparum', col='Estado', kind='bar', aspect=1.7, col_wrap=2).savefig(os.path.join(path_output, 'output_51.png'))
+
+catplot(df, x='Ano', y='Falciparum', col='Estado', kind='box', aspect=1.7, col_wrap=2).savefig(os.path.join(path_output, 'output_52.png'))
+
+catplot(df, x='Ano', y='Falciparum', col='Estado', kind='strip', aspect=1.7, col_wrap=2).savefig(os.path.join(path_output, 'output_53.png'))
+
+#########################
+# TODO: MATRICIAL PLOTS #
+#########################
+
