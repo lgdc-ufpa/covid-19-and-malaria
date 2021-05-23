@@ -225,4 +225,4 @@ sns.lmplot(data=df, x='Ano', y='Vivax', col='Estado', aspect=1.7, col_wrap=2, pa
 
 lmplot(data=df[df['Ano'] >= 2020], x='Ano', y='Falciparum', col='Estado', scatter=False, height=3, aspect=1, col_wrap=3, palette='Set1').set(xticks=[2020, 2021], yticks=[0, 100, 200, 300]).savefig(os.path.join(path_output, 'output_63.png'))
 
-lmplot(data=df[df['Ano'] >= 2020], x='Ano', y='Vivax', col='Estado', scatter=False, height=2, aspect=1, col_wrap=3, palette='Set1').set(xticks=[2020, 2021], yticks=[0, 100, 200, 300]).savefig(os.path.join(path_output, 'output_64.png'))
+lmplot(data=df[df['Ano'] >= 2020], x='Ano', y='Vivax', col='Estado', scatter=False, height=3, aspect=1, col_wrap=3, palette='Set1').set(xticks=[2020, 2021], yticks=[0, 100, 200, 300]).savefig(os.path.join(path_output, 'output_64.png'))
