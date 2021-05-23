@@ -214,3 +214,15 @@ heatmap(df.pivot_table(values='Vivax', index='Estado', columns='Ano'), cmap='mag
 clustermap(df.pivot_table(values='Falciparum', index='Estado', columns='Ano'), cmap='magma').tsavefig(os.path.join(path_output, 'output_59.png'))
 
 clustermap(df.pivot_table(values='Vivax', index='Estado', columns='Ano'), cmap='magma').savefig(os.path.join(path_output, 'output_60.png'))
+
+####################
+# REGRESSION PLOTS #
+####################
+
+sns.lmplot(data=df, x='Ano', y='Falciparum', col='Estado', aspect=1.7, col_wrap=2, palette='Set1').savefig(os.path.join(path_output, 'output_61.png'))
+
+sns.lmplot(data=df, x='Ano', y='Vivax', col='Estado', aspect=1.7, col_wrap=2, palette='Set1').savefig(os.path.join(path_output, 'output_62.png'))
+
+lmplot(data=df[df['Ano'] >= 2020], x='Ano', y='Falciparum', col='Estado', scatter=False, height=3, aspect=1, col_wrap=3, palette='Set1').set(xticks=[2020, 2021], yticks=[0, 100, 200, 300], title='Falciparum').savefig(os.path.join(path_output, 'output_63.png'))
+
+lmplot(data=df[df['Ano'] >= 2020], x='Ano', y='Vivax', col='Estado', scatter=False, height=2, aspect=1, col_wrap=3, palette='Set1').set(xticks=[2020, 2021], yticks=[0, 100, 200, 300]).savefig(os.path.join(path_output, 'output_64.png'))
