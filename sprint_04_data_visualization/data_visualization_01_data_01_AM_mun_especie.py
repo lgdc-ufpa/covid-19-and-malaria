@@ -202,6 +202,15 @@ catplot(df, x='Ano', y='Vivax', col='Estado', kind='box', aspect=1.7, col_wrap=2
 catplot(df, x='Ano', y='Vivax', col='Estado', kind='strip', aspect=1.7, col_wrap=2).savefig(os.path.join(path_output, 'output_56.png'))
 
 #########################
-# TODO: MATRICIAL PLOTS #
+# DONE: MATRICIAL PLOTS #
 #########################
 
+sns.set(rc={'figure.figsize': (20, 10)})
+
+heatmap(df.pivot_table(values='Falciparum', index='Estado', columns='Ano'), cmap='magma').set_title('Falciparum').figure.savefig(os.path.join(path_output, 'output_57.png'))
+
+heatmap(df.pivot_table(values='Vivax', index='Estado', columns='Ano'), cmap='magma').set_title('Vivax').figure.savefig(os.path.join(path_output, 'output_58.png'))
+
+clustermap(df.pivot_table(values='Falciparum', index='Estado', columns='Ano'), cmap='magma').tsavefig(os.path.join(path_output, 'output_59.png'))
+
+clustermap(df.pivot_table(values='Vivax', index='Estado', columns='Ano'), cmap='magma').savefig(os.path.join(path_output, 'output_60.png'))
