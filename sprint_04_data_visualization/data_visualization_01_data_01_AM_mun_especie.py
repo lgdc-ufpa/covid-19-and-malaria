@@ -195,6 +195,12 @@ catplot(df, x='Ano', y='Falciparum', col='Estado', kind='box', aspect=1.7, col_w
 
 catplot(df, x='Ano', y='Falciparum', col='Estado', kind='strip', aspect=1.7, col_wrap=2).savefig(os.path.join(path_output, 'output_53.png'))
 
+catplot(df, x='Ano', y='Vivax', col='Estado', kind='bar', aspect=1.7, col_wrap=2).savefig(os.path.join(path_output, 'output_54.png'))
+
+catplot(df, x='Ano', y='Vivax', col='Estado', kind='box', aspect=1.7, col_wrap=2).savefig(os.path.join(path_output, 'output_55.png'))
+
+catplot(df, x='Ano', y='Vivax', col='Estado', kind='strip', aspect=1.7, col_wrap=2).savefig(os.path.join(path_output, 'output_56.png'))
+
 #########################
 # TODO: MATRICIAL PLOTS #
 #########################
