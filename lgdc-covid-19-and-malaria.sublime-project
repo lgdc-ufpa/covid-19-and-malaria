@@ -1,0 +1,93 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "lgdc covid 19 and malaria",
+			"selector": "source.python",
+			"shell_cmd": "\"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/venv-lgdc-covid-19-and-malaria/bin/python\" -u \"$file\""
+		},
+		{
+			"auto_close": false,
+			"env":
+			{
+				"PYTHONIOENCODING": "utf-8"
+			},
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"focus": true,
+			"name": "lgdc covid 19 and malaria terminal",
+			"post_window_hooks":
+			[
+				[
+					"carry_file_to_pane",
+					{
+						"direction": "right"
+					}
+				]
+			],
+			"selector": "source.python",
+			"shell_cmd": "\"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/venv-lgdc-covid-19-and-malaria/bin/python\" -u \"$file\"",
+			"target": "terminus_open",
+			"timeit": true,
+			"title": "lgdc covid 19 and malaria terminal",
+			"variants":
+			[
+				{
+					"name": "Syntax Check",
+					"shell_cmd": "\"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/venv-lgdc-covid-19-and-malaria/bin/python\" -m py_compile \"${file}\""
+				}
+			],
+			"working_dir": "$file_path"
+		},
+		{
+			"auto_close": true,
+			"env":
+			{
+				"PYTHONIOENCODING": "utf-8"
+			},
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"focus": true,
+			"name": "lgdc covid 19 and malaria ipython",
+			"post_window_hooks":
+			[
+				[
+					"carry_file_to_pane",
+					{
+						"direction": "right"
+					}
+				]
+			],
+			"selector": "source.python",
+			"shell_cmd": "\"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/venv-lgdc-covid-19-and-malaria/ipython\"",
+			"target": "terminus_open",
+			"timeit": true,
+			"title": "ipython",
+			"working_dir": "$file_path"
+		},
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/venv-lgdc-covid-19-and-malaria/bin/python\" -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "."
+		},
+		{
+			"path": "~/Downloads"
+		},
+		{
+			"path": "../pibic_2020/"
+		},
+		{
+			"path": "../learning-data-science/pandas/"
+		},
+		{
+			"path": "../learning-data-science/data_visualization/"
+		}
+	],
+	"python_interpreter": "/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/venv-lgdc-covid-19-and-malaria/bin/python"
+}

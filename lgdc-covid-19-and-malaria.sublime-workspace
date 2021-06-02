@@ -1,0 +1,1249 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set",
+				"set_titles\tfunction"
+			],
+			[
+				"colr",
+				"col_wrap=\tparam"
+			],
+			[
+				"pvt_",
+				"pvt_falciparum\tstatement"
+			],
+			[
+				"set_ti",
+				"set_title"
+			],
+			[
+				"cat",
+				"catplot\tfunction"
+			],
+			[
+				"join",
+				"jointplot\tfunction"
+			],
+			[
+				"path_sprint_03",
+				"path_sprint_03_data_analysis_output"
+			],
+			[
+				"ps0",
+				"path_sprint_03_data_analysis_output\t⌬ tabnine"
+			],
+			[
+				"path",
+				"path_sprint_03_data_analysis\t⌬ tabnine"
+			],
+			[
+				"convert",
+				"convert_xlsx_to_csv(files\t⌬ tabnine"
+			],
+			[
+				"to",
+				"to_csv\tfunction"
+			],
+			[
+				"df_",
+				"df_data_01_am_mun_esp\tstatement"
+			],
+			[
+				"Fse",
+				"False\tkeyword"
+			],
+			[
+				"exe",
+				"Exception\tclass"
+			],
+			[
+				"data_01",
+				"data_01_files\tstatement"
+			],
+			[
+				"read",
+				"read_csv\tfunction"
+			],
+			[
+				"file",
+				"file_paths\tstatement"
+			],
+			[
+				"pro",
+				"project_path\tstatement"
+			],
+			[
+				"Model",
+				"ModelList\t⌬ tabnine"
+			],
+			[
+				"Models",
+				"Models\t⌬ tabnine"
+			],
+			[
+				"older",
+				"older_and_new_csv_file_paths_together\tstatement"
+			],
+			[
+				"ol",
+				"older_csv_files_paths\t⌬ tabnine"
+			],
+			[
+				"get_cs",
+				"get_csv_result_paths(model\t⌬ tabnine"
+			],
+			[
+				"get",
+				"get_csv_result_paths\tfunction"
+			],
+			[
+				"uti",
+				"utils\tmodule"
+			],
+			[
+				"_",
+				"_aLinkZipCSV"
+			],
+			[
+				"border-co",
+				"border-color\tproperty"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"add",
+				"addEventListener\t( type: DOMString, callback: EventListener, capture?: boolean ): void EventTarget"
+			],
+			[
+				"zip",
+				"zipfile\tmodule"
+			],
+			[
+				"get_html",
+				"get_html_result_path\tfunction"
+			],
+			[
+				"as",
+				"as_attachment=\tparam"
+			],
+			[
+				"send",
+				"send_file\tfunction"
+			],
+			[
+				"preve",
+				"preventDefault\t(): void Event"
+			],
+			[
+				"result",
+				"result_blueprint\tinstance"
+			],
+			[
+				"RES",
+				"ResultCSVItem\tclass"
+			],
+			[
+				"Re",
+				"ResultCSV\tclass"
+			],
+			[
+				"Result",
+				"ResultHTMLItem\tclass"
+			],
+			[
+				"show",
+				"showContent"
+			],
+			[
+				"_btn",
+				"_btnSimulate"
+			],
+			[
+				"sto",
+				"stopPropagation\t(): void Event"
+			],
+			[
+				"progress-bar",
+				"progress-bar-animated \tBootstrap 4 Class"
+			],
+			[
+				"progre",
+				"progress-bar \tBootstrap 4 Class"
+			],
+			[
+				"content",
+				"contentSelectorEl"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"flo",
+				"flex-flow\tproperty"
+			],
+			[
+				"fle",
+				"flex\tdisplay"
+			],
+			[
+				"R",
+				"rgba()\tbackground-color"
+			],
+			[
+				"BG",
+				"background-color\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"box-s",
+				"box-sizing\tproperty"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"flex-",
+				"flex-flow\tproperty"
+			],
+			[
+				"col-md",
+				"col-md-12 \tBootstrap 4 Class"
+			],
+			[
+				"size",
+				"font-size\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"shado",
+				"text-shadow\tproperty"
+			],
+			[
+				"text-",
+				"text-shadow\tproperty"
+			],
+			[
+				"mb-",
+				"mb-md-1 \tBootstrap 4 Class"
+			],
+			[
+				"container",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"clm",
+				"col-md-12 \tBootstrap 4 Class"
+			],
+			[
+				"siz",
+				"font-size\tproperty"
+			],
+			[
+				"marin",
+				"margin-top\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"padding-",
+				"padding-top\tproperty"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"flex",
+				"inline-flex\tdisplay"
+			],
+			[
+				"lear",
+				"learning-css/"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"sty",
+				"style\t<style>"
+			],
+			[
+				"cha",
+				"charset\tAttr"
+			],
+			[
+				"quer",
+				"querySelector\t( selectors: DOMString ): Element Document"
+			],
+			[
+				"string",
+				"String\t( value: any ): String String"
+			],
+			[
+				"que",
+				"querySelector\t( selectors: DOMString ): Element Document"
+			],
+			[
+				"_resul",
+				"_resultMenuEl"
+			],
+			[
+				"A",
+				"AbstractDataModel\tclass"
+			],
+			[
+				"a",
+				"abstract_data_model\tmodule"
+			],
+			[
+				"re",
+				"request\tinstance"
+			],
+			[
+				"html",
+				"html_file\tstatement"
+			],
+			[
+				"mode",
+				"modelsEl"
+			],
+			[
+				"split",
+				"split_names"
+			],
+			[
+				"js",
+				"javascript"
+			],
+			[
+				"home",
+				"homepage"
+			],
+			[
+				"n",
+				"N_ITERATIONS\tstatement"
+			],
+			[
+				"json",
+				"resp_json"
+			],
+			[
+				"get_",
+				"get_json\tfunction"
+			],
+			[
+				"me",
+				"method\tstatement"
+			],
+			[
+				"uni",
+				"unicode"
+			],
+			[
+				"ty",
+				"type=\tparam"
+			],
+			[
+				"par",
+				"parse_args\tfunction"
+			],
+			[
+				"req",
+				"reqparse\tmodule"
+			],
+			[
+				"ap",
+				"api\tstatement"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"dum",
+				"dumps\tfunction"
+			],
+			[
+				"w",
+				"write\tfunction"
+			],
+			[
+				"nam",
+				"__name__"
+			],
+			[
+				"test",
+				"test_loop\tmodule"
+			],
+			[
+				"forma",
+				"format_status\tfunction"
+			],
+			[
+				"api",
+				"api_response_status\tfunction"
+			],
+			[
+				"ran",
+				"random\tstatement"
+			],
+			[
+				"ite",
+				"iteration\tstatement"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"sho",
+				"showElement"
+			],
+			[
+				"metho",
+				"methods"
+			],
+			[
+				"Abstra",
+				"AbstractDataModel\tclass"
+			],
+			[
+				"data",
+				"dataclass\tfunction"
+			],
+			[
+				"command",
+				"commands\tstatement"
+			],
+			[
+				"P",
+				"Popen\tclass"
+			],
+			[
+				"sh",
+				"sh_file\tstatement"
+			],
+			[
+				"si",
+				"simulation_blueprint\tinstance"
+			],
+			[
+				"s",
+				"simulation\tmodule"
+			],
+			[
+				"asb",
+				"abstractstaticmethod\tfunction"
+			],
+			[
+				"abstr",
+				"abstractmethod\tfunction"
+			],
+			[
+				"flask",
+				"flask_restful\tmodule"
+			],
+			[
+				"agen",
+				"agents\tstatement"
+			],
+			[
+				"moe",
+				"mode_name"
+			],
+			[
+				"di",
+				"di_model_agent\tstatement"
+			],
+			[
+				"model",
+				"model_name\tstatement"
+			],
+			[
+				"lit",
+				"listdir\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sprint_01_data_collection/data_02/HIST_PAINEL_COVIDBR_21mai2021.csv",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "lgdc covid 19 and malaria terminal",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/venv-p1-sist-dist.sublime-build",
+					""
+				],
+				[
+					"Packages/User/venv-software-fundamentals.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/venv-p1-sist-dist.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"ecosim terminal",
+					""
+				],
+				[
+					"ecosim terminal",
+					"Syntax Check"
+				]
+			],
+			[
+				"ecosim terminal",
+				""
+			]
+		],
+		[
+			[
+				[
+					"lgdc covid 19 and malaria terminal",
+					""
+				],
+				[
+					"lgdc covid 19 and malaria terminal",
+					"Syntax Check"
+				]
+			],
+			[
+				"lgdc covid 19 and malaria terminal",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"RT",
+				"Terminus: Rename Title"
+			],
+			[
+				"rt",
+				"Terminus: Rename Title"
+			],
+			[
+				"rp",
+				"Package Control: Remove Package"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"proj prefe",
+				"Project: Refresh Folders"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"ttheme",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"ter",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"terminus",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"packag",
+				"Package Control: Enable Package"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"termin",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"requimen",
+				"requirements.txt: Clear Cache"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"err",
+				"Anaconda: Show error list"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"erro",
+				"Anaconda: Show error list"
+			],
+			[
+				"rename",
+				"Terminus: Rename Title"
+			],
+			[
+				"termi",
+				"Terminus: Rename Title"
+			],
+			[
+				"error",
+				"Anaconda: Show error list"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+			"c",
+			"8",
+			"python",
+			"dir"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_02",
+		"/home/bruno/Documents/dev/learning-data-science/pandas",
+		"/home/bruno/Documents/dev/learning-data-science/data_visualization"
+	],
+	"file_history":
+	[
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/data_visualization_01_data_01_AM_mun_especie.py",
+		"/home/bruno/Documents/dev/learning-data-science/pandas/02_dataframe.py",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/plots.py",
+		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_06_styles_and_colors.py",
+		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_05_pairgrids.py",
+		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_04_regression_plots.py",
+		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_01_distribution_plots.py",
+		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_02_categorical_plots.py",
+		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_03_matricial_plots.py",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_03_data_analysis/output/output_01_data_01_AM_mun_especie.csv",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/venv-lgdc-covid-19-and-malaria/lib/python3.8/site-packages/seaborn/categorical.py",
+		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/plots.py",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output_01.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_16.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_15.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_14.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_13.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_12.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_11.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_10.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_09.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_08.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_07.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_06.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_05.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_01.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_04.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_03.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_02.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_03_data_analysis/data_analysis.py",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/styles.py",
+		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/styles.py",
+		"/home/bruno/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_02_convert_xlsx_to_csv/convert_xlsx_to_csv.py",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_02_convert_xlsx_to_csv/convert_xslx_to_csv.py",
+		"/home/bruno/Documents/dev/pibic_2020/sprint4_data_visualization/main.py",
+		"/home/bruno/Documents/dev/pibic_2020/sprint4_data_visualization/chromossome.py",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_03_data_analysis/output/README.md",
+		"/home/bruno/Documents/dev/pibic_2020/sprint4_data_visualization/gene_variant_population.csv",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/requirements.txt",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_01/Amazonia_Mun_Especie_2020.csv",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_01/Amazonia_Mun_Especie_2018.csv",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_01/Amazonia_Mun_Especie_2003.csv",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/lgdc-covid-19-and-malaria.sublime-project",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_01/Malaria_Casos_confirmados_Municipio_2001_ExtAmazonia.csv",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_02_convert_data_to_xslx",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_01/Amazonia_Mun_Especie_2006.csv",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_01/Amazonia_Mun_Especie_2005.csv",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_01/Amazonia_Mun_Especie_2004.csv",
+		"/home/bruno/Documents/dev/ecosim/interface/pages/homepage/homepage.js",
+		"/home/bruno/Documents/dev/setup-linux/install_packages.sh",
+		"/home/bruno/Documents/dev/ecosim/install_R_dependencies.sh",
+		"/home/bruno/Documents/dev/ecosim/examples/macro_model/macro_Caiani.sh",
+		"/home/bruno/Documents/dev/ecosim/models/ref_br/ref_br.sh",
+		"/home/bruno/Documents/dev/ecosim/interface/pages/homepage/homepage.html",
+		"/home/bruno/Documents/dev/ecosim/interface/views/simulation.py",
+		"/home/bruno/Documents/dev/ecosim/interface/common/utils.py",
+		"/home/bruno/Documents/dev/ecosim/install_requirements.sh",
+		"/home/bruno/Documents/dev/ecosim/docs/source/_static/macro_Caiani.html",
+		"/home/bruno/Documents/dev/ecosim/interface/app.py",
+		"/home/bruno/Documents/dev/ecosim/interface/pages/homepage/controllers/Homepage.js",
+		"/home/bruno/Documents/dev/ecosim/interface/pages/homepage/controllers/Models.js",
+		"/home/bruno/Documents/dev/ecosim/interface/pages/homepage/controllers/Result.js",
+		"/home/bruno/Documents/dev/ecosim/interface/views/result.py",
+		"/home/bruno/Documents/dev/clone-rest-api-sections/section3/app.py",
+		"/home/bruno/Documents/dev/clone-rest-api-sections/section6/app.py",
+		"/home/bruno/Documents/dev/clone-rest-api-sections/section2/10_args_and_kwargs.py",
+		"/home/bruno/Documents/dev/clone-rest-api-sections/section6/resources/store.py",
+		"/home/bruno/Documents/dev/ecosim/interface/common/database.py",
+		"/home/bruno/Documents/dev/ecosim/interface/models/model.py",
+		"/home/bruno/Documents/dev/ecosim/examples/ipd_model/ipd.sh",
+		"/home/bruno/Documents/dev/ecosim/interface/pages/homepage/homepage.css",
+		"/home/bruno/Documents/dev/ecosim/examples/el_farol_bar_model/el_farol_classic.sh",
+		"/home/bruno/Documents/dev/ecosim/interface/pages/results/results.html",
+		"/home/bruno/Documents/dev/ecosim/.idea/misc.xml",
+		"/home/bruno/Documents/dev/ecosim/.idea/EcoSim_p.iml",
+		"/home/bruno/Documents/dev/ecosim/.gitignore",
+		"/home/bruno/Documents/dev/ecosim/examples/el_farol_bar_model/el_farol_classic.json",
+		"/home/bruno/Documents/dev/clone-price-of-chair-new/99_final/views/users.py",
+		"/home/bruno/Documents/dev/clone-price-of-chair-new/99_final/views/stores.py",
+		"/home/bruno/Documents/dev/clone-price-of-chair-new/99_final/views/alerts.py",
+		"/home/bruno/Documents/dev/ecosim/interface/resources/agent.py",
+		"/home/bruno/Documents/dev/ecosim/interface/models/result.py",
+		"/home/bruno/Documents/dev/ecosim/interface/models/agent.py",
+		"/home/bruno/Documents/dev/ecosim/interface/resources/result.py",
+		"/home/bruno/Documents/dev/clone-coder-javascript/exercicios-web/ajax/fetch2.html",
+		"/home/bruno/Documents/dev/clone-coder-javascript/exercicios-web/ajax/fetch1.html",
+		"/usr/lib/python3/dist-packages/speedtest.py",
+		"/home/bruno/Documents/dev/ecosim/interface/files/result.zip",
+		"/home/bruno/Documents/dev/ecosim/interface/views/homepage.py",
+		"/home/bruno/Documents/dev/ecosim/interface/files/file.csv",
+		"/home/bruno/Documents/dev/ecosim/interface/files/files.csv",
+		"/home/bruno/Documents/dev/ecosim/examples/ipd_model/runs/ipd_BPObs_2021-05-19T01:22_.csv",
+		"/home/bruno/Documents/dev/ecosim/execute_test_in_subprocess.py",
+		"/home/bruno/Documents/dev/ecosim/interface/models/abstract_data_model.py",
+		"/home/bruno/Documents/dev/learning-flask/bootstrap/app.py",
+		"/home/bruno/Documents/dev/clone-price-of-chair-new/99_final/models/item.py",
+		"/home/bruno/Documents/dev/clone-rest-api-sections/section6/models/item.py",
+		"/home/bruno/Documents/dev/clone-rest-api-sections/section6/models/store.py",
+		"/home/bruno/Documents/dev/clone-rest-api-sections/section4/app.py",
+		"/home/bruno/Documents/dev/clone-price-of-chair-new/99_final/models/store.py",
+		"/home/bruno/Documents/dev/clone-rest-api-sections/section6/db.py",
+		"/home/bruno/Documents/dev/clone-rest-api-sections/section6/resources/item.py",
+		"/home/bruno/Documents/dev/ecosim/interface/pages/homepage/components/models.html",
+		"/home/bruno/Documents/dev/learning-html/coder/index.html",
+		"/home/bruno/Documents/dev/learning-css/README.md",
+		"/home/bruno/Documents/dev/learning-css/coder/heranca.html",
+		"/home/bruno/Documents/dev/learning-css/coder/especificidade1.html",
+		"/home/bruno/Documents/dev/learning-css/coder/seletores.html",
+		"/home/bruno/Documents/dev/learning-css/coder/flexbox1.html",
+		"/home/bruno/Documents/dev/learning-css/coder/flexbox2.html",
+		"/home/bruno/Documents/dev/learning-css/coder/flexbox3.html",
+		"/home/bruno/Documents/dev/learning-css/coder/flexboxMenu.html",
+		"/home/bruno/Documents/dev/learning-html/coder/poucoDeCSS.html",
+		"/home/bruno/Documents/dev/learning-html/coder/anatomiaHtml.html",
+		"/home/bruno/Documents/dev/ecosim/ecosim.sublime-project",
+		"/home/bruno/Documents/dev/learning-css/coder/display.html",
+		"/home/bruno/Documents/dev/learning-css/coder/texto.html",
+		"/home/bruno/Documents/dev/learning-css/coder/cssgrid1.html",
+		"/home/bruno/Documents/dev/learning-html/coder/poucoDeCSS.css",
+		"/home/bruno/Documents/dev/learning-html/coder/anatomiaTag.html",
+		"/home/bruno/Documents/dev/learning-flask/bootstrap/templates/index.html",
+		"/home/bruno/Documents/dev/ecosim/interface/templates/homepage.html",
+		"/home/bruno/Documents/dev/ecosim/interface/resources/model.py",
+		"/home/bruno/Documents/dev/ecosim/interface/resources/results.py",
+		"/home/bruno/Documents/dev/ecosim/interface/resources/results",
+		"/home/bruno/Documents/dev/ecosim/interface/pages/homepage/controllers/Simulation.js",
+		"/home/bruno/Documents/dev/ecosim/interface/pages/homepage/components/models/renderModels.js"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 223.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"colum",
+			"pd.Data",
+			"axis",
+			"dataframe",
+			"interpreter",
+			"learning python"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sprint_01_data_collection/data_02/HIST_PAINEL_COVIDBR_21mai2021.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"pre_rainbow_syntax": "Packages/zzz A File Icon zzz/aliases/Plain Text (CSV).sublime-syntax",
+							"rainbow_checked": true,
+							"rainbow_mode": true,
+							"syntax": "Packages/rainbow_csv/pregenerated_grammars/CSV (Rainbow).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 77.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 190.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 299.0
+	},
+	"output.Terminus 3":
+	{
+		"height": 163.0
+	},
+	"output.Terminus 4":
+	{
+		"height": 231.0
+	},
+	"output.Terminus 5":
+	{
+		"height": 163.0
+	},
+	"output.diagnostics":
+	{
+		"height": 150.0
+	},
+	"output.exec":
+	{
+		"height": 373.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "lgdc covid 19 and malaria",
+	"project": "lgdc-covid-19-and-malaria.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"macro",
+				"ecosim/examples/macro_model/macro_Caiani.sh"
+			],
+			[
+				"homepage.html",
+				"ecosim/interface/pages/homepage/homepage.html"
+			],
+			[
+				"home css",
+				"ecosim/interface/pages/homepage/homepage.css"
+			],
+			[
+				"Homepage",
+				"ecosim/interface/pages/homepage/controllers/Homepage.js"
+			],
+			[
+				"app",
+				"bootstrap/app.py"
+			],
+			[
+				"Home js",
+				"ecosim/interface/pages/homepage/controllers/Homepage.js"
+			],
+			[
+				"homep",
+				"ecosim/interface/pages/homepage/homepage.html"
+			],
+			[
+				"html homepagh",
+				"ecosim/interface/pages/homepage/homepage.html"
+			],
+			[
+				".html homepage",
+				"ecosim/interface/pages/homepage/homepage.html"
+			],
+			[
+				"homepa",
+				"ecosim/interface/pages/homepage/homepage.html"
+			],
+			[
+				"Param",
+				"interface/static/parametrization/controller/ParametrizationController.js"
+			],
+			[
+				"para",
+				"interface/static/parametrization/parametrization.js"
+			],
+			[
+				"agents",
+				"interface/templates/parametrization/agents/agents.html"
+			],
+			[
+				"parametr",
+				"interface/templates/parametrization/parametrization.html"
+			],
+			[
+				"parame",
+				"interface/templates/parametrization/parametrization.html"
+			],
+			[
+				"parametrization",
+				"interface/templates/parametrization/parametrization.html"
+			],
+			[
+				"agents.js",
+				"interface/static/parametrization/agents/agents.js"
+			],
+			[
+				"el_farol_bar_action_set.py",
+				"examples/el_farol_bar_model/agents/el_farol_bar_action_set.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/dev/ecosim/ecosim.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 94.0,
+		"last_filter": "class JSON",
+		"selected_items":
+		[
+			[
+				"class JSON",
+				"test_convert_json_field_to_pandas_type_raises"
+			],
+			[
+				"requirement",
+				"requirements"
+			],
+			[
+				"Prof",
+				"Profile"
+			]
+		],
+		"width": 848.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 361.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
