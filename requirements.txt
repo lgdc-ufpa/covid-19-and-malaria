@@ -22,3 +22,6 @@ typing==3.7.4.3
 # linters and somethings like that
 pyflakes==2.2.0
 pylint==2.6.0
+
+# geo
+geopandas
