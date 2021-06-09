@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"m",
+				"numpy/"
+			],
+			[
 				"set",
 				"set_titles\tfunction"
 			],
@@ -510,17 +514,23 @@
 			[
 				"model",
 				"model_name\tstatement"
-			],
-			[
-				"lit",
-				"listdir\tfunction"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "sprint_01_data_collection/data_02/HIST_PAINEL_COVIDBR_21mai2021.csv",
+			"contents": "bruno@linux:~/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization$ ",
+			"settings":
+			{
+				"buffer_size": 84,
+				"line_ending": "Unix",
+				"name": "Login Shell",
+				"scratch": true
+			}
+		},
+		{
+			"file": "sprint_04_data_visualization/output/data/output_01_CFs_by_city.csv",
 			"settings":
 			{
 				"buffer_size": 0,
@@ -600,6 +610,10 @@
 		"selected_items":
 		[
 			[
+				"rt",
+				"Terminus: Rename Title"
+			],
+			[
 				"settings",
 				"Preferences: Settings"
 			],
@@ -613,10 +627,6 @@
 			],
 			[
 				"RT",
-				"Terminus: Rename Title"
-			],
-			[
-				"rt",
 				"Terminus: Rename Title"
 			],
 			[
@@ -757,15 +767,28 @@
 	"expanded_folders":
 	[
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria",
-		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection",
-		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_02",
-		"/home/bruno/Documents/dev/learning-data-science/pandas",
-		"/home/bruno/Documents/dev/learning-data-science/data_visualization"
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/data",
+		"/home/bruno/Documents/dev/learning-data-science/numpy"
 	],
 	"file_history":
 	[
-		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/data_visualization_01_data_01_AM_mun_especie.py",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/final_01.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/final_02.png",
+		"/home/bruno/Documents/dev/learning-data-science/requirements.txt",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_03_data_analysis/data_analysis_02.py",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_03_data_analysis/data_analysis.py",
 		"/home/bruno/Documents/dev/learning-data-science/pandas/02_dataframe.py",
+		"/home/bruno/Documents/dev/pibic_2020/requirements.txt",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_04/Covid_malaria_total_casos.csv",
+		"/home/bruno/Documents/dev/learning-data-science/numpy/arrays.py",
+		"/home/bruno/Documents/dev/learning-data-science/data_visualization/plotly/01_plotly.py",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/lgdc-covid-19-and-malaria.sublime-project",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_03_data_analysis/data_analysis",
+		"/home/bruno/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_02/HIST_PAINEL_COVIDBR_21mai2021.csv",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/data_visualization_01_data_01_AM_mun_especie.py",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/plots.py",
 		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_06_styles_and_colors.py",
 		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_05_pairgrids.py",
@@ -793,10 +816,8 @@
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_04.png",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_03.png",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_02.png",
-		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_03_data_analysis/data_analysis.py",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/styles.py",
 		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/styles.py",
-		"/home/bruno/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_02_convert_xlsx_to_csv/convert_xlsx_to_csv.py",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_02_convert_xlsx_to_csv/convert_xslx_to_csv.py",
 		"/home/bruno/Documents/dev/pibic_2020/sprint4_data_visualization/main.py",
@@ -807,7 +828,6 @@
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_01/Amazonia_Mun_Especie_2020.csv",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_01/Amazonia_Mun_Especie_2018.csv",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_01/Amazonia_Mun_Especie_2003.csv",
-		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/lgdc-covid-19-and-malaria.sublime-project",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_01/Malaria_Casos_confirmados_Municipio_2001_ExtAmazonia.csv",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_02_convert_data_to_xslx",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_01/Amazonia_Mun_Especie_2006.csv",
@@ -881,17 +901,7 @@
 		"/home/bruno/Documents/dev/learning-html/coder/anatomiaHtml.html",
 		"/home/bruno/Documents/dev/ecosim/ecosim.sublime-project",
 		"/home/bruno/Documents/dev/learning-css/coder/display.html",
-		"/home/bruno/Documents/dev/learning-css/coder/texto.html",
-		"/home/bruno/Documents/dev/learning-css/coder/cssgrid1.html",
-		"/home/bruno/Documents/dev/learning-html/coder/poucoDeCSS.css",
-		"/home/bruno/Documents/dev/learning-html/coder/anatomiaTag.html",
-		"/home/bruno/Documents/dev/learning-flask/bootstrap/templates/index.html",
-		"/home/bruno/Documents/dev/ecosim/interface/templates/homepage.html",
-		"/home/bruno/Documents/dev/ecosim/interface/resources/model.py",
-		"/home/bruno/Documents/dev/ecosim/interface/resources/results.py",
-		"/home/bruno/Documents/dev/ecosim/interface/resources/results",
-		"/home/bruno/Documents/dev/ecosim/interface/pages/homepage/controllers/Simulation.js",
-		"/home/bruno/Documents/dev/ecosim/interface/pages/homepage/components/models/renderModels.js"
+		"/home/bruno/Documents/dev/learning-css/coder/texto.html"
 	],
 	"find":
 	{
@@ -909,6 +919,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"drop",
+			"auto",
 			"colum",
 			"pd.Data",
 			"axis",
@@ -932,12 +944,102 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "sprint_01_data_collection/data_02/HIST_PAINEL_COVIDBR_21mai2021.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"default_dir": "/home/bruno/Documents/dev/pibic_2020",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"font_size": 14,
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"line_padding_bottom": 0,
+							"line_padding_top": 0,
+							"rainbow_checked": true,
+							"result_base_dir": "/home/bruno/Documents/dev/lgdc-covid-19-and-malaria",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"/bin/bash",
+									"-i",
+									"-l"
+								],
+								"config_name": "Login Shell",
+								"cwd": "/home/bruno/Documents/dev/lgdc-covid-19-and-malaria",
+								"env":
+								{
+									"LANG": "en_US.UTF-8",
+									"TERM": "linux",
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.panel_name": null,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 0.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sprint_04_data_visualization/output/data/output_01_CFs_by_city.csv",
 					"semi_transient": false,
 					"settings":
 					{
@@ -972,61 +1074,61 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content"
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
 							],
 							"pre_rainbow_syntax": "Packages/zzz A File Icon zzz/aliases/Plain Text (CSV).sublime-syntax",
 							"rainbow_checked": true,
