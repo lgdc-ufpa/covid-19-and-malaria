@@ -32,10 +32,11 @@ data_abs_paths = list(
 abs_file_paths = []
 
 for path in data_abs_paths:
-    for file in os.listdir(path):
-        extension = file.split('.')[-1]
-        if extension == 'xlsx':         
-            abs_file_paths.append(os.path.join(path, file))
+    if len(path.split('.')) == 1:
+        for file in os.listdir(path):
+            extension = file.split('.')[-1]
+            if extension == 'xlsx':         
+                abs_file_paths.append(os.path.join(path, file))
 
 convert_xlsx_to_csv(files=abs_file_paths)
 
