@@ -1,9 +1,8 @@
+from dask import dataframe as dd
+import dask
 import os
 import pandas as pd
-import numpy as np
-import pdb
-from tqdm import tqdm
-from typing import Callable
+from typing import Union
 
 
 def load_covid():
@@ -21,96 +20,25 @@ def load_covid():
     return df_covid.set_index('codmun')
 
 
-def load_emergency_aid_and_process_it(chunksize: int = 1):
+def load_emergency_aid(blocksize: Union[str, float] = 25e6) -> dask.dataframe.core.DataFrame:
+    """Return a dask dataframe
 
-    list_process: list = []
+    blocksize: num bytes of each parallel dataframe chunk. egg:'25MB' or 25e6 """
 
-    di_results: dict = {}
+    path_data_09_csvs = os.path.join(os.getcwd(), '..', 'sprint_01_data_collection', 'data_09', '*.csv')
 
-    df_results = pd.DataFrame([])
-    
-    def get_month(chunk: pd.core.frame.DataFrame = None) -> str:
-        return str(chunk.iloc[0, 0])
-
-    def get_framing(chunk: pd.core.frame.DataFrame = None) -> str:
-        return str(chunk.iloc[0, 10])
-    
-    def process_01_number_framing_per_month(chunk, di_results: dict) -> None:        
-
-        month: str = get_month(chunk)
-
-        framing: str = get_framing(chunk)
-
-        if month in di_results.keys():
-
-            if framing in di_results[month].keys():
-
-                di_results[month][framing] += 1
-
-            else:
-
-                di_results[month][framing] = 1
-
-        else:
-
-            di_results[month] = {}
-
-            di_results[month][framing] = 1          
-
-        return
-    
-    def get_function_name(_function: Callable) -> str:
-            return _function.__name__
-
-    def save_results(df_to_save: pd.core.frame.DataFrame, name: str, path: str):
-
-        abs_path: str = os.path.join(path, name)
-
-        df_to_save.to_csv(abs_path, function_name)
-
-        return
-
-    list_process.append(process_01_number_framing_per_month)    
-
-    input_path = os.path.join(os.getcwd(), '..', 'sprint_01_data_collection', 'data_09')
-
-    input_files = [file for file in os.listdir(input_path) if 'Auxilio' in file and '.csv' in file]
-
-    for process in list_process:
-
-        function_name = get_function_name(process)
-
-        for file in input_files:            
-
-            path_file = os.path.join(input_path, file)
-
-            for chunk in tqdm(pd.read_csv(path_file, sep=';', chunksize=chunksize)):
-
-                # print(chunk)      
-                
-                try:
-                    has_UF = chunk[['UF']].iloc[0, 0].__class__ == str
-
-                except TypeError as e:
-
-                    print('has_UF went wrong')                    
-
-                    pdb.set_trace()
-
-                    raise e
-
-                if has_UF:
-
-                    process(chunk, di_results)
-
-                    df_results = pd.DataFrame(di_results)       
-
-        df_results.head()
-
-        save_results(df_results, function_name)
-
-        del di_results
-
-        del df_results
-
-# load_emergency_aid_and_process_it()
+    return dd.read_csv(path_data_09_csvs, sep=";", encoding="ISO-8859-1", blocksize=blocksize, dtype={
+        'CPF RESPONSÁVEL': 'str',
+        'CÓDIGO MUNICÍPIO IBGE': 'str',
+        'NOME MUNICÍPIO': 'str', 
+        'UF': 'str', 
+        'NIS BENEFICIÁRIO': 'str', 
+        'CPF BENEFICIÁRIO': 'str', 
+        'NOME BENEFICIÁRIO': 'str', 
+        'NIS RESPONSÁVEL': 'str', 
+        'CPF RESPONSÁVEL': 'str', 
+        'NOME RESPONSÁVEL': 'str', 
+        'ENQUADRAMENTO': 'str', 
+        'PARCELA': 'str', 
+        'OBSERVAÇÃO': 'str', 
+        'VALOR BENEFÍCIO': 'str'})
