@@ -1,0 +1,50 @@
+strain	clade_membership	country	host	url	virus_type	author	accession
+bat_SL_CoVZXC21		China	Bat		SARS-like CoV	Hu et al A	MG772934
+bat_SL_CoVZC45		China	Bat		SARS-like CoV	Hu et al A	MG772933
+pangolin/Guangxi/P4L/2017		China	Pangolin		SARS-like CoV	Jiang et al	EPI_ISL_410538
+pangolin/Guangxi/P3B/2017		China	Pangolin		SARS-like CoV	Jiang et al	EPI_ISL_410543
+pangolin/Guangxi/P1E/2017		China	Pangolin		SARS-like CoV	Jiang et al	EPI_ISL_410539
+pangolin/Guangxi/P5L/2017		China	Pangolin		SARS-like CoV	Jiang et al	EPI_ISL_410540
+pangolin/Guangxi/P5E/2017		China	Pangolin		SARS-like CoV	Jiang et al	EPI_ISL_410541
+pangolin/Guangxi/P2V/2017		China	Pangolin		SARS-like CoV	Jiang et al	EPI_ISL_410542
+pangolin/Guangdong/P2S/2019		China	Pangolin		SARS-like CoV	Jiang et al	EPI_ISL_410544
+bat/Yunnan/RaTG13/2013		China	Bat		SARS-like CoV	Zhu et al	EPI_ISL_402131
+bat/Yunnan/RmYN02/2019		China	Bat		SARS-like CoV	Zhou et al	EPI_ISL_412977
+USA/CA1/2020	SARS-CoV-2	USA	Human		SARS-CoV-2	Uehara et al	MN994467
+Nepal/61/2020	SARS-CoV-2	Nepal	Human		SARS-CoV-2	Sah et al	MT072688
+USA/IL1/2020	SARS-CoV-2	USA	Human		SARS-CoV-2	Tao et al	MN988713
+Sweden/01/2020	SARS-CoV-2	Sweden	Human		SARS-CoV-2	Bengner et al	MT093571
+Wuhan-Hu-1/2019	SARS-CoV-2	China	Human		SARS-CoV-2	Zhang et al A	WH-Human_1
+Wuhan/WIV05/2019	SARS-CoV-2	China	Human		SARS-CoV-2	Zhou et al	MN996529
+Japan/KY-V-029/2020	SARS-CoV-2	Japan	Human		SARS-CoV-2	Sekizuka et al	LC522972
+HKU3_7			Bat		SARS-like CoV	Lau et al A	GQ153542
+LYRa11		China	Bat		SARS-like CoV	He et al	KF569996
+bat/Yunnan/RmYN01/2019		China	Bat		SARS-like CoV	Zhou et al	EPI_ISL_412976
+YNLF_34C		China	Bat		SARS-like CoV	Lau et al B	KP886809
+Rs672		China	Bat		SARS-like CoV	Yuan et al	FJ588686
+Rs4081		China	Bat		SARS-like CoV	Hu et al B	KY417143
+As6526		China	Bat		SARS-like CoV	Hu et al B	KY417142
+Rs4247		China	Bat		SARS-like CoV	Hu et al B	KY417148
+Rs4237		China	Bat		SARS-like CoV	Hu et al B	KY417147
+Rf4092		China	Bat		SARS-like CoV	Hu et al B	KY417145
+Rs7327		China	Bat		SARS-like CoV	Hu et al B	KY417151
+Rs9401		China	Bat		SARS-like CoV	Hu et al B	KY417152
+RsSHC014		China	Bat		SARS-like CoV	Ge et al A	KC881005
+Rs4084		China	Bat		SARS-like CoV	Hu et al B	KY417144
+WIV1		China	Bat		SARS-like CoV	Ge et al B	KF367457
+Rs3367		China	Bat		SARS-like CoV	Ge et al A	KC881006
+Rs4231		China	Bat		SARS-like CoV	Hu et al B	KY417146
+civet007	SARS-CoV	China	Civet		SARS-CoV	Wang et al A	AY572034
+PC4_227	SARS-CoV	China	Civet		SARS-CoV	Song et al	AY613950
+civet020	SARS-CoV	China	Civet		SARS-CoV	Wang et al A	AY572038
+A001	SARS-CoV	China	Civet		SARS-CoV	Wang et al B	FJ959407
+GZ0402	SARS-CoV	China	Human		SARS-CoV	Song et al	AY613947
+GZ0401	SARS-CoV	China	Human		SARS-CoV	Song et al	AY568539
+BJ04	SARS-CoV	China	Human		SARS-CoV	Wu et al	AY279354
+BJ01	SARS-CoV	China	Human		SARS-CoV	Wu et al	AY278488
+Sin852	SARS-CoV	Singapore	Human		SARS-CoV	Vega et al	AY559082
+Sin842	SARS-CoV	Singapore	Human		SARS-CoV	Vega et al	AY559081
+Sin846	SARS-CoV	Singapore	Human		SARS-CoV	Vega et al	AY559094
+Sino1_11	SARS-CoV	China	Human		SARS-CoV	Zhang et al B	AY485277
+TWH	SARS-CoV	Taiwan	Human		SARS-CoV	Shu et al A	AP006557
+TWS	SARS-CoV	Taiwan	Human		SARS-CoV	Shu et al B	AP006560
