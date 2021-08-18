@@ -4,6 +4,66 @@
 		"selected_items":
 		[
 			[
+				"function",
+				"function_name"
+			],
+			[
+				"_fn",
+				"_function"
+			],
+			[
+				"proce",
+				"process_01_number_framing_per_month"
+			],
+			[
+				"chunk",
+				"chunksize="
+			],
+			[
+				"load_",
+				"load_emergency_aid_and_process_it"
+			],
+			[
+				"clla",
+				"Callable"
+			],
+			[
+				"co",
+				"core"
+			],
+			[
+				"chunksi",
+				"chunksize"
+			],
+			[
+				"loa",
+				"load_emergency_aid_zipfile"
+			],
+			[
+				"Zip",
+				"ZipExtFile"
+			],
+			[
+				"zip",
+				"zipfile"
+			],
+			[
+				"load",
+				"load_datasets"
+			],
+			[
+				"spr",
+				"sprint_03_data_analysis/"
+			],
+			[
+				"inpu",
+				"input_file\tstatement"
+			],
+			[
+				"inp",
+				"input_path\tstatement"
+			],
+			[
 				"set",
 				"set_titles\tfunction"
 			],
@@ -118,10 +178,6 @@
 			[
 				"add",
 				"addEventListener\t( type: DOMString, callback: EventListener, capture?: boolean ): void EventTarget"
-			],
-			[
-				"zip",
-				"zipfile\tmodule"
 			],
 			[
 				"get_html",
@@ -458,149 +514,1394 @@
 			[
 				"Abstra",
 				"AbstractDataModel\tclass"
-			],
-			[
-				"data",
-				"dataclass\tfunction"
-			],
-			[
-				"command",
-				"commands\tstatement"
-			],
-			[
-				"P",
-				"Popen\tclass"
-			],
-			[
-				"sh",
-				"sh_file\tstatement"
-			],
-			[
-				"si",
-				"simulation_blueprint\tinstance"
-			],
-			[
-				"s",
-				"simulation\tmodule"
-			],
-			[
-				"asb",
-				"abstractstaticmethod\tfunction"
-			],
-			[
-				"abstr",
-				"abstractmethod\tfunction"
-			],
-			[
-				"flask",
-				"flask_restful\tmodule"
-			],
-			[
-				"agen",
-				"agents\tstatement"
-			],
-			[
-				"moe",
-				"mode_name"
-			],
-			[
-				"di",
-				"di_model_agent\tstatement"
-			],
-			[
-				"model",
-				"model_name\tstatement"
-			],
-			[
-				"lit",
-				"listdir\tfunction"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "sprint_03_data_analysis/output/output_01_data_01_AM_mun_especie.csv",
+			"file": "/home/bruno/Documents/dev/learning-distributed-systems/celery/section-2/01_blocking_vs_non_blocking.py",
 			"settings":
 			{
-				"buffer_size": 448581,
-				"encoding": "UTF-8",
+				"buffer_size": 168,
 				"line_ending": "Unix"
-			}
+			},
+			"undo_stack":
+			[
+			]
 		},
 		{
-			"file": "sprint_04_data_visualization/data_visualization_01_data_01_AM_mun_especie.py",
+			"contents": "bruno@linux:~/Documents/dev/lgdc-covid-19-and-malaria$ cd ..                  \nbruno@linux:~/Documents/dev$ ls\n alex                                   learning_mongodb\n anderson                               learning-nosql\n bioinformatica                         learning_postgresql\n biopython-course                       learning-python\n bkp                                    learning-python2\n calculator                             learning-r\n clone-calculator                       learning-sql\n clone-coder-javascript                 learning-tdd\n clone-datasets                         learning-web-scraping\n clone-microblog-development            lgdc-covid-19-and-malaria\n clone-price-of-chair-new               lmms_apocv\n clone-projeto-usuarios                 malaria\n clone-projeto-usuarios-localstorage    marcos\n clone-projeto-usuarios-restapi         mauro\n clone-rest-api-sections                metodos\n clone-rest-api-section-teclado         numerical-methods\n clone-schoolofcode-me-price-of-chair   numerical-methods-web\n ecosim                                 p1_sist_dist\n heroku                                 pibic_2020\n joao                                   professional-website\n learning-aws                           programathor\n learning-bootstrap                     setup-linux\n learning-css                          'Site LGHM'\n learning-data-science                  site_robot\n learning-distributed-systems           software-fundamentals\n learning-docker                        st3\n learning-flask                         sublime-text\n learning-git                           udemy\n learning-html                          ufpa\n learning_js                            web-scr-programathor\nbruno@linux:~/Documents/dev$ ls -f | grep \"*celery*\"\nbruno@linux:~/Documents/dev$ ls -f | grep *celery*                            \nbruno@linux:~/Documents/dev$ ls -f                                            \n alex                                   learning_mongodb\n ..                                     st3\n bkp                                    ufpa\n clone-schoolofcode-me-price-of-chair   udemy\n malaria                                learning-r\n learning-docker                        ecosim\n clone-projeto-usuarios-restapi         clone-datasets\n learning-nosql                         software-fundamentals\n anderson                               learning-html\n learning-web-scraping                  clone-calculator\n learning-css                           site_robot\n'Site LGHM'                             sublime-text\n learning-python2                       .\n clone-microblog-development            clone-price-of-chair-new\n marcos                                 learning_postgresql\n clone-projeto-usuarios                 learning-python\n lgdc-covid-19-and-malaria              clone-projeto-usuarios-localstorage\n learning-sql                           numerical-methods-web\n learning-distributed-systems           professional-website\n lmms_apocv                             learning-aws\n learning-bootstrap                     heroku\n setup-linux                            learning-data-science\n metodos                                joao\n clone-coder-javascript                 bioinformatica\n learning-flask                         learning-tdd\n learning_js                            learning-git\n biopython-course                       clone-rest-api-sections\n mauro                                  programathor\n p1_sist_dist                           pibic_2020\n clone-rest-api-section-teclado         numerical-methods\n web-scr-programathor                   calculator\nbruno@linux:~/Documents/dev$ ls\n alex                                   learning_mongodb\n anderson                               learning-nosql\n bioinformatica                         learning_postgresql\n biopython-course                       learning-python\n bkp                                    learning-python2\n calculator                             learning-r\n clone-calculator                       learning-sql\n clone-coder-javascript                 learning-tdd\n clone-datasets                         learning-web-scraping\n clone-microblog-development            lgdc-covid-19-and-malaria\n clone-price-of-chair-new               lmms_apocv\n clone-projeto-usuarios                 malaria\n clone-projeto-usuarios-localstorage    marcos\n clone-projeto-usuarios-restapi         mauro\n clone-rest-api-sections                metodos\n clone-rest-api-section-teclado         numerical-methods\n clone-schoolofcode-me-price-of-chair   numerical-methods-web\n ecosim                                 p1_sist_dist\n heroku                                 pibic_2020\n joao                                   professional-website\n learning-aws                           programathor\n learning-bootstrap                     setup-linux\n learning-css                          'Site LGHM'\n learning-data-science                  site_robot\n learning-distributed-systems           software-fundamentals\n learning-docker                        st3\n learning-flask                         sublime-text\n learning-git                           udemy\n learning-html                          ufpa\n learning_js                            web-scr-programathor\nbruno@linux:~/Documents/dev$ ls -a\n .                                      learning_js\n ..                                     learning_mongodb\n alex                                   learning-nosql\n anderson                               learning_postgresql\n bioinformatica                         learning-python\n biopython-course                       learning-python2\n bkp                                    learning-r\n calculator                             learning-sql\n clone-calculator                       learning-tdd\n clone-coder-javascript                 learning-web-scraping\n clone-datasets                         lgdc-covid-19-and-malaria\n clone-microblog-development            lmms_apocv\n clone-price-of-chair-new               malaria\n clone-projeto-usuarios                 marcos\n clone-projeto-usuarios-localstorage    mauro\n clone-projeto-usuarios-restapi         metodos\n clone-rest-api-sections                numerical-methods\n clone-rest-api-section-teclado         numerical-methods-web\n clone-schoolofcode-me-price-of-chair   p1_sist_dist\n ecosim                                 pibic_2020\n heroku                                 professional-website\n joao                                   programathor\n learning-aws                           setup-linux\n learning-bootstrap                    'Site LGHM'\n learning-css                           site_robot\n learning-data-science                  software-fundamentals\n learning-distributed-systems           st3\n learning-docker                        sublime-text\n learning-flask                         udemy\n learning-git                           ufpa\n learning-html                          web-scr-programathor\nbruno@linux:~/Documents/dev$ subl learning-distributed-systems/               \nbruno@linux:~/Documents/dev$ subl learning-distributed-systems/\nbruno@linux:~/Documents/dev$ subl learning-distributed-systems/               \nbruno@linux:~/Documents/dev$ cd learning-distributed-systems/\nbruno@linux:~/Documents/dev/learning-distributed-systems$ subl learning-distri​‌​\nbuted-systems.sublime-project \nbruno@linux:~/Documents/dev/learning-distributed-systems$ ",
 			"settings":
 			{
-				"buffer_size": 10711,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_01_distribution_plots.py",
-			"settings":
-			{
-				"buffer_size": 658,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_02_categorical_plots.py",
-			"settings":
-			{
-				"buffer_size": 1320,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_03_matricial_plots.py",
-			"settings":
-			{
-				"buffer_size": 1036,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_04_regression_plots.py",
-			"settings":
-			{
-				"buffer_size": 942,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_05_pairgrids.py",
-			"settings":
-			{
-				"buffer_size": 839,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_06_styles_and_colors.py",
-			"settings":
-			{
-				"buffer_size": 1144,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/bruno/Documents/dev/learning-data-science/pandas/02_dataframe.py",
-			"settings":
-			{
-				"buffer_size": 8462,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "sprint_04_data_visualization/plots.py",
-			"settings":
-			{
-				"buffer_size": 8783,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
+				"buffer_size": 7424,
+				"line_ending": "Unix",
+				"name": "Login Shell",
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					2,
+					"terminus_render",
+					null,
+					"IQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAkAAAAAAAAACQAAAAAAAAABAAAACggAAAAAAAAACAAAAAAAAAABAAAACgcAAAAAAAAABwAAAAAAAAABAAAACgYAAAAAAAAABgAAAAAAAAABAAAACgUAAAAAAAAABQAAAAAAAAABAAAACgQAAAAAAAAABAAAAAAAAAABAAAACgMAAAAAAAAAAwAAAAAAAAABAAAACgIAAAAAAAAAAgAAAAAAAAABAAAACgEAAAAAAAAAAQAAAAAAAAABAAAACgAAAAAAAAAAAAAAAAAAAAABAAAACgAAAAAAAAAANgAAAAAAAAAAAAAANgAAAAAAAAA3AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAAAAAAAAAAAAOAAAAAAAAAA3AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIA",
+					"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAAAAAAAAAAAAOQAAAAAAAAA4AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHM",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAAAAAAAAAAAAOgAAAAAAAAA5AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1",
+					"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAAAAAAAAAAAAOwAAAAAAAAA6AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1Yg",
+					"AQAAAAAAAAABAAAAOgAAAAAAAAA6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"terminus_render",
+					null,
+					"AgAAAAAAAAAAAAAAOwAAAAAAAAA7AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1Ymw7AAAAAAAAADwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOwAAAAAAAAA7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAAAAAAAAAAAAPQAAAAAAAAA8AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1Ymwg",
+					"AQAAAAAAAAABAAAAPAAAAAAAAAA8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAAAAAAAAAAAAPgAAAAAAAAA9AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLg",
+					"AQAAAAAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA+AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAAAAAAAAAAAAQAAAAAAAAAA/AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4v",
+					"AQAAAAAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAAAAAAAAAAAAQQAAAAAAAABAAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vYw",
+					"AQAAAAAAAAABAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAAAAAAAAAAAAQgAAAAAAAABBAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vY2U",
+					"AQAAAAAAAAABAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAQQAAAAAAAABCAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vY2VsQQAAAAAAAABOAAAAAAAAAAAAAABBAAAAAAAAAEEAAAAAAAAADQAAACAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAQgAAAAAAAABCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAQAAAAAAAAABBAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vY2VAAAAAAAAAAE4AAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAOAAAAICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vYz8AAAAAAAAATgAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAAAAAAA8AAAAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAQAAAAAAAAAA/AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vQAAAAAAAAABOAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAADgAAACAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAQQAAAAAAAABAAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbEEAAAAAAAAATgAAAAAAAAAAAAAAQQAAAAAAAABBAAAAAAAAAA0AAAAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAARwAAAAAAAABBAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVHAAAAAAAAAE4AAAAAAAAAAAAAAEcAAAAAAAAARwAAAAAAAAAHAAAAICAgICAgIA",
+					"AQAAAAAAAAABAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAASAAAAAAAAABHAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhcm5pbmdIAAAAAAAAAE4AAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAGAAAAICAgICAg",
+					"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAASQAAAAAAAABIAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhcm5pbmctSQAAAAAAAABOAAAAAAAAAAAAAABJAAAAAAAAAEkAAAAAAAAABQAAACAgICAg",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAASgAAAAAAAABJAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhcm5pbmctY0oAAAAAAAAATgAAAAAAAAAAAAAASgAAAAAAAABKAAAAAAAAAAQAAAAgICAg",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAASwAAAAAAAABKAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhcm5pbmctY2VLAAAAAAAAAE4AAAAAAAAAAAAAAEsAAAAAAAAASwAAAAAAAAADAAAAICAg",
+					"AQAAAAAAAAABAAAASgAAAAAAAABKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAASgAAAAAAAABLAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhcm5pbmctY2VsSgAAAAAAAABOAAAAAAAAAAAAAABKAAAAAAAAAEoAAAAAAAAABAAAACAgICA",
+					"AQAAAAAAAAABAAAASwAAAAAAAABLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAASQAAAAAAAABKAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhcm5pbmctY2VJAAAAAAAAAE4AAAAAAAAAAAAAAEkAAAAAAAAASQAAAAAAAAAFAAAAICAgICA",
+					"AQAAAAAAAAABAAAASgAAAAAAAABKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAASAAAAAAAAABJAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhcm5pbmctY0gAAAAAAAAATgAAAAAAAAAAAAAASAAAAAAAAABIAAAAAAAAAAYAAAAgICAgICA",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAARwAAAAAAAABIAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhcm5pbmctRwAAAAAAAABOAAAAAAAAAAAAAABHAAAAAAAAAEcAAAAAAAAABwAAACAgICAgICA",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAASAAAAAAAAABHAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhcm5pbmdIAAAAAAAAAE4AAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAGAAAAICAgICAg",
+					"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAASQAAAAAAAABIAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhcm5pbmdfSQAAAAAAAABOAAAAAAAAAAAAAABJAAAAAAAAAEkAAAAAAAAABQAAACAgICAg",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAASgAAAAAAAABJAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhcm5pbmdfY0oAAAAAAAAATgAAAAAAAAAAAAAASgAAAAAAAABKAAAAAAAAAAQAAAAgICAg",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAASwAAAAAAAABKAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhcm5pbmdfY2VLAAAAAAAAAE4AAAAAAAAAAAAAAEsAAAAAAAAASwAAAAAAAAADAAAAICAg",
+					"AQAAAAAAAAABAAAASgAAAAAAAABKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAASgAAAAAAAABLAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhcm5pbmdfY2VsSgAAAAAAAABOAAAAAAAAAAAAAABKAAAAAAAAAEoAAAAAAAAABAAAACAgICA",
+					"AQAAAAAAAAABAAAASwAAAAAAAABLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAASQAAAAAAAABKAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhcm5pbmdfY2VJAAAAAAAAAE4AAAAAAAAAAAAAAEkAAAAAAAAASQAAAAAAAAAFAAAAICAgICA",
+					"AQAAAAAAAAABAAAASgAAAAAAAABKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAASAAAAAAAAABJAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhcm5pbmdfY0gAAAAAAAAATgAAAAAAAAAAAAAASAAAAAAAAABIAAAAAAAAAAYAAAAgICAgICA",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAARwAAAAAAAABIAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhcm5pbmdfRwAAAAAAAABOAAAAAAAAAAAAAABHAAAAAAAAAEcAAAAAAAAABwAAACAgICAgICA",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAARgAAAAAAAABHAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhcm5pbmdGAAAAAAAAAE4AAAAAAAAAAAAAAEYAAAAAAAAARgAAAAAAAAAIAAAAICAgICAgICA",
+					"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAARQAAAAAAAABGAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhcm5pbkUAAAAAAAAATgAAAAAAAAAAAAAARQAAAAAAAABFAAAAAAAAAAkAAAAgICAgICAgICA",
+					"AQAAAAAAAAABAAAARQAAAAAAAABFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAARAAAAAAAAABFAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhcm5pRAAAAAAAAABOAAAAAAAAAAAAAABEAAAAAAAAAEQAAAAAAAAACgAAACAgICAgICAgICA",
+					"AQAAAAAAAAABAAAARAAAAAAAAABEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					81,
+					2,
+					"terminus_render",
+					null,
+					"BgAAAAAAAAAAAAAAQwAAAAAAAABEAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhcm5DAAAAAAAAAE4AAAAAAAAAAAAAAEMAAAAAAAAAQwAAAAAAAAALAAAAICAgICAgICAgICAAAAAAAAAAAEIAAAAAAAAAQwAAAGJydW5vQGxpbnV4On4vRG9jdW1lbnRzL2Rldi9sZ2RjLWNvdmlkLTE5LWFuZC1tYWxhcmlhJCBzdWJsIC4uL2xlYXJCAAAAAAAAAE4AAAAAAAAAAAAAAEIAAAAAAAAAQgAAAAAAAAAMAAAAICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					83,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAQQAAAAAAAABCAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVhQQAAAAAAAABOAAAAAAAAAAAAAABBAAAAAAAAAEEAAAAAAAAADQAAACAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAQgAAAAAAAABCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAQAAAAAAAAABBAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbGVAAAAAAAAAAE4AAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAOAAAAICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					87,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vbD8AAAAAAAAATgAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAAAAAAA8AAAAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					89,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi4vPgAAAAAAAABOAAAAAAAAAAAAAAA+AAAAAAAAAD4AAAAAAAAAEAAAACAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					91,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAPQAAAAAAAAA+AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLi49AAAAAAAAAE4AAAAAAAAAAAAAAD0AAAAAAAAAPQAAAAAAAAARAAAAICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					93,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAOwAAAAAAAAA9AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgLjsAAAAAAAAATgAAAAAAAAAAAAAAPAAAAAAAAAA8AAAAAAAAABIAAAAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAOwAAAAAAAAA8AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YmwgOwAAAAAAAABOAAAAAAAAAAAAAAA7AAAAAAAAADsAAAAAAAAAEwAAACAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAPAAAAAAAAAA8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1Ymw6AAAAAAAAAE4AAAAAAAAAAAAAADoAAAAAAAAAOgAAAAAAAAAUAAAAICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAOwAAAAAAAAA7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAOAAAAAAAAAA6AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHN1YjgAAAAAAAAATgAAAAAAAAAAAAAAOAAAAAAAAAA4AAAAAAAAABYAAAAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAOgAAAAAAAAA6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					102,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAANgAAAAAAAAA4AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIHM2AAAAAAAAAE4AAAAAAAAAAAAAADcAAAAAAAAANwAAAAAAAAAXAAAAICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					110,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAOAAAAAAAAAA3AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIDgAAAAAAAAATgAAAAAAAAAAAAAAOAAAAAAAAAA4AAAAAAAAABYAAAAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAOQAAAAAAAAA4AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIGM5AAAAAAAAAE4AAAAAAAAAAAAAADkAAAAAAAAAOQAAAAAAAAAVAAAAICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					114,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAOQAAAAAAAAA5AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIGNkOQAAAAAAAABOAAAAAAAAAAAAAAA6AAAAAAAAADoAAAAAAAAAFAAAACAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					116,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAOwAAAAAAAAA6AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIGNkIDsAAAAAAAAATgAAAAAAAAAAAAAAOwAAAAAAAAA7AAAAAAAAABMAAAAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAOgAAAAAAAAA6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					118,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAAAAAAAAAAAAPAAAAAAAAAA7AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xnZGMtY292aWQtMTktYW5kLW1hbGFyaWEkIGNkIC48AAAAAAAAAE4AAAAAAAAAAAAAADwAAAAAAAAAPAAAAAAAAAASAAAAICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAOwAAAAAAAAA7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					120,
+					1,
+					"terminus_render",
+					null,
+					"AwAAADwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAABZAAAAAAAAAAAAAABZAAAAAAAAAFoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPAAAAAAAAAA8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					122,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAD0AAAAAAAAAWwAAAAAAAAAdAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCA",
+					"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					124,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAD0AAAAAAAAAXAAAAAAAAAAeAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBs",
+					"AQAAAAAAAAABAAAAWwAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					126,
+					3,
+					"terminus_render",
+					null,
+					"MQAAAFwAAAAAAAAAXQAAAAAAAAAAAAAAXQAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAKwAAAAAAAAAAAAAAG8AAAAAAAAAoQAAAAAAAAAAAAAAbgAAAAAAAACiAAAAAAAAAAAAAABtAAAAAAAAAKoAAAAAAAAAAAAAAGwAAAAAAAAApQAAAAAAAAAAAAAAawAAAAAAAACaAAAAAAAAAAAAAABqAAAAAAAAAJcAAAAAAAAAAAAAAGkAAAAAAAAAlwAAAAAAAAAAAAAAaAAAAAAAAACXAAAAAAAAAAAAAABnAAAAAAAAAJkAAAAAAAAAAAAAAGYAAAAAAAAApwAAAAAAAAAAAAAAZQAAAAAAAACiAAAAAAAAAAAAAABkAAAAAAAAAJgAAAAAAAAAAAAAAGMAAAAAAAAAlwAAAAAAAAAAAAAAYgAAAAAAAACUAAAAAAAAAAAAAABhAAAAAAAAAJkAAAAAAAAAAAAAAGAAAAAAAAAAlwAAAAAAAAAAAAAAXwAAAAAAAACaAAAAAAAAAAAAAABeAAAAAAAAAJQAAAAAAAAAAAAAAF0AAAAAAAAAlQAAAAAAAAAAAAAAPQAAAAAAAABcAAAAAAAAAB8AAABicnVub0BsaW51eDp+L0RvY3VtZW50cy9kZXYkIGxzAAAAAAAAAAA8AAAAAAAAADwAAABicnVub0BsaW51eDp+L0RvY3VtZW50cy9kZXYvbGdkYy1jb3ZpZC0xOS1hbmQtbWFsYXJpYSQgY2QgLi48AAAAAAAAAE4AAAAAAAAAAAAAALUEAAAAAAAAtgQAAAAAAAAAAAAAtgQAAAAAAADqBAAAAAAAAAAAAADqBAAAAAAAAOsEAAAAAAAAAAAAAOsEAAAAAAAAHgUAAAAAAAAAAAAAHgUAAAAAAAAfBQAAAAAAAAAAAAAfBQAAAAAAAFEFAAAAAAAAAAAAAFEFAAAAAAAAUgUAAAAAAAAAAAAAUgUAAAAAAACEBQAAAAAAAAAAAACEBQAAAAAAAIUFAAAAAAAAAAAAAIUFAAAAAAAAwgUAAAAAAAAAAAAAwgUAAAAAAADDBQAAAAAAAAAAAADDBQAAAAAAAO4FAAAAAAAAAAAAAO4FAAAAAAAA7wUAAAAAAAAAAAAA7wUAAAAAAAAjBgAAAAAAAAAAAAAjBgAAAAAAACQGAAAAAAAAAAAAACQGAAAAAAAAUQYAAAAAAAAAAAAAUQYAAAAAAABSBgAAAAAAAAAAAABSBgAAAAAAAH4GAAAAAAAAAAAAAH4GAAAAAAAAfwYAAAAAAAAAAAAAfwYAAAAAAAC7BgAAAAAAAAAAAAC7BgAAAAAAALwGAAAAAAAAAAAAALwGAAAAAAAAvAYAAAAAAAAAAAAAvAYAAAAAAADYBgAAAAAAAAAAAADYBgAAAAAAANkGAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					128,
+					1,
+					"terminus_render",
+					null,
+					"AQAAALwGAAAAAAAA2gYAAAAAAAAdAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCA",
+					"AQAAAAAAAAABAAAA2QYAAAAAAADZBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					130,
+					1,
+					"terminus_render",
+					null,
+					"AQAAALwGAAAAAAAA2wYAAAAAAAAeAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBs",
+					"AQAAAAAAAAABAAAA2gYAAAAAAADaBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					132,
+					1,
+					"terminus_render",
+					null,
+					"AgAAALwGAAAAAAAA2wYAAAAAAAAfAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBsc9sGAAAAAAAA3AYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2wYAAAAAAADbBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					134,
+					1,
+					"terminus_render",
+					null,
+					"AQAAALwGAAAAAAAA3QYAAAAAAAAgAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyA",
+					"AQAAAAAAAAABAAAA3AYAAAAAAADcBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					136,
+					1,
+					"terminus_render",
+					null,
+					"AQAAALwGAAAAAAAA3gYAAAAAAAAhAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAt",
+					"AQAAAAAAAAABAAAA3QYAAAAAAADdBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					138,
+					1,
+					"terminus_render",
+					null,
+					"AgAAALwGAAAAAAAA3gYAAAAAAAAiAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZt4GAAAAAAAA3wYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3gYAAAAAAADeBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					140,
+					1,
+					"terminus_render",
+					null,
+					"AQAAALwGAAAAAAAA4AYAAAAAAAAjAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiA",
+					"AQAAAAAAAAABAAAA3wYAAAAAAADfBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					142,
+					1,
+					"terminus_render",
+					null,
+					"AgAAALwGAAAAAAAA4AYAAAAAAAAkAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB84AYAAAAAAADhBgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4AYAAAAAAADgBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					144,
+					1,
+					"terminus_render",
+					null,
+					"AQAAALwGAAAAAAAA4gYAAAAAAAAlAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IA",
+					"AQAAAAAAAAABAAAA4QYAAAAAAADhBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					146,
+					1,
+					"terminus_render",
+					null,
+					"AQAAALwGAAAAAAAA4wYAAAAAAAAmAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGc",
+					"AQAAAAAAAAABAAAA4gYAAAAAAADiBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					148,
+					1,
+					"terminus_render",
+					null,
+					"AQAAALwGAAAAAAAA5AYAAAAAAAAnAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdy",
+					"AQAAAAAAAAABAAAA4wYAAAAAAADjBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					150,
+					1,
+					"terminus_render",
+					null,
+					"AQAAALwGAAAAAAAA5QYAAAAAAAAoAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZQ",
+					"AQAAAAAAAAABAAAA5AYAAAAAAADkBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					152,
+					1,
+					"terminus_render",
+					null,
+					"AgAAALwGAAAAAAAA5QYAAAAAAAApAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXDlBgAAAAAAAOYGAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5QYAAAAAAADlBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					154,
+					1,
+					"terminus_render",
+					null,
+					"AQAAALwGAAAAAAAA5wYAAAAAAAAqAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAg",
+					"AQAAAAAAAAABAAAA5gYAAAAAAADmBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					156,
+					1,
+					"terminus_render",
+					null,
+					"AQAAALwGAAAAAAAA6AYAAAAAAAArAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgIg",
+					"AQAAAAAAAAABAAAA5wYAAAAAAADnBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					160,
+					1,
+					"terminus_render",
+					null,
+					"AQAAALwGAAAAAAAA6QYAAAAAAAAsAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgIiI",
+					"AQAAAAAAAAABAAAA5wYAAAAAAADnBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					162,
+					1,
+					"terminus_render",
+					null,
+					"AQAAALwGAAAAAAAA6gYAAAAAAAAtAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgIioi",
+					"AQAAAAAAAAABAAAA6AYAAAAAAADoBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					166,
+					1,
+					"terminus_render",
+					null,
+					"AQAAALwGAAAAAAAA6wYAAAAAAAAuAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgIioqIg",
+					"AQAAAAAAAAABAAAA6AYAAAAAAADoBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					168,
+					1,
+					"terminus_render",
+					null,
+					"AQAAALwGAAAAAAAA7AYAAAAAAAAvAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgIipjKiI",
+					"AQAAAAAAAAABAAAA6QYAAAAAAADpBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					170,
+					1,
+					"terminus_render",
+					null,
+					"AQAAALwGAAAAAAAA7QYAAAAAAAAwAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgIipjZSoi",
+					"AQAAAAAAAAABAAAA6gYAAAAAAADqBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					172,
+					1,
+					"terminus_render",
+					null,
+					"AQAAALwGAAAAAAAA7gYAAAAAAAAxAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgIipjZWwqIg",
+					"AQAAAAAAAAABAAAA6wYAAAAAAADrBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					174,
+					1,
+					"terminus_render",
+					null,
+					"AQAAALwGAAAAAAAA7wYAAAAAAAAyAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgIipjZWxlKiI",
+					"AQAAAAAAAAABAAAA7AYAAAAAAADsBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					176,
+					1,
+					"terminus_render",
+					null,
+					"AQAAALwGAAAAAAAA8AYAAAAAAAAzAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgIipjZWxlcioi",
+					"AQAAAAAAAAABAAAA7QYAAAAAAADtBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					178,
+					1,
+					"terminus_render",
+					null,
+					"DgAAALYEAAAAAAAA6gQAAAAAAAA0AAAAIGxlYXJuaW5nLWF3cyAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2dyYW1hdGhvcusEAAAAAAAAHgUAAAAAAAAzAAAAIGxlYXJuaW5nLWJvb3RzdHJhcCAgICAgICAgICAgICAgICAgICAgIHNldHVwLWxpbnV4HwUAAAAAAABRBQAAAAAAADIAAAAgbGVhcm5pbmctY3NzICAgICAgICAgICAgICAgICAgICAgICAgICAnU2l0ZSBMR0hNJ1IFAAAAAAAAhAUAAAAAAAAyAAAAIGxlYXJuaW5nLWRhdGEtc2NpZW5jZSAgICAgICAgICAgICAgICAgIHNpdGVfcm9ib3SFBQAAAAAAAMIFAAAAAAAAPQAAACBsZWFybmluZy1kaXN0cmlidXRlZC1zeXN0ZW1zICAgICAgICAgICBzb2Z0d2FyZS1mdW5kYW1lbnRhbHPDBQAAAAAAAO4FAAAAAAAAKwAAACBsZWFybmluZy1kb2NrZXIgICAgICAgICAgICAgICAgICAgICAgICBzdDPvBQAAAAAAACMGAAAAAAAANAAAACBsZWFybmluZy1mbGFzayAgICAgICAgICAgICAgICAgICAgICAgICBzdWJsaW1lLXRleHQkBgAAAAAAAFEGAAAAAAAALQAAACBsZWFybmluZy1naXQgICAgICAgICAgICAgICAgICAgICAgICAgICB1ZGVteVIGAAAAAAAAfgYAAAAAAAAsAAAAIGxlYXJuaW5nLWh0bWwgICAgICAgICAgICAgICAgICAgICAgICAgIHVmcGF/BgAAAAAAALsGAAAAAAAAPAAAACBsZWFybmluZ19qcyAgICAgICAgICAgICAgICAgICAgICAgICAgICB3ZWItc2NyLXByb2dyYW1hdGhvcrwGAAAAAAAA8AYAAAAAAAA0AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgIipjZWxlcnkqIvAGAAAAAAAA8QYAAAAAAAAAAAAA8QYAAAAAAAANBwAAAAAAAAAAAAANBwAAAAAAAA4HAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7gYAAAAAAADuBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					180,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAPEGAAAAAAAAJQcAAAAAAAAdAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCA",
+					"AQAAAAAAAAABAAAADgcAAAAAAAAOBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					199,
+					1,
+					"terminus_render",
+					null,
+					"AgAAAPEGAAAAAAAAJAcAAAAAAAA0AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgIipjZWxlcnkqIiQHAAAAAAAAPwcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHAcAAAAAAAAcBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					201,
+					1,
+					"terminus_render",
+					null,
+					"AQAAACQHAAAAAAAAJAcAAAAAAAAbAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAGwcAAAAAAAAbBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					203,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPEGAAAAAAAAIwcAAAAAAAAzAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgKmNlbGVyeSoiIwcAAAAAAAA/BwAAAAAAAAAAAAAjBwAAAAAAACMHAAAAAAAAHAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAJAcAAAAAAAAkBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					205,
+					2,
+					"terminus_render",
+					null,
+					"EAAAAOsEAAAAAAAAHgUAAAAAAAAzAAAAIGxlYXJuaW5nLWJvb3RzdHJhcCAgICAgICAgICAgICAgICAgICAgIHNldHVwLWxpbnV4HwUAAAAAAABRBQAAAAAAADIAAAAgbGVhcm5pbmctY3NzICAgICAgICAgICAgICAgICAgICAgICAgICAnU2l0ZSBMR0hNJ1IFAAAAAAAAhAUAAAAAAAAyAAAAIGxlYXJuaW5nLWRhdGEtc2NpZW5jZSAgICAgICAgICAgICAgICAgIHNpdGVfcm9ib3SFBQAAAAAAAMIFAAAAAAAAPQAAACBsZWFybmluZy1kaXN0cmlidXRlZC1zeXN0ZW1zICAgICAgICAgICBzb2Z0d2FyZS1mdW5kYW1lbnRhbHPDBQAAAAAAAO4FAAAAAAAAKwAAACBsZWFybmluZy1kb2NrZXIgICAgICAgICAgICAgICAgICAgICAgICBzdDPvBQAAAAAAACMGAAAAAAAANAAAACBsZWFybmluZy1mbGFzayAgICAgICAgICAgICAgICAgICAgICAgICBzdWJsaW1lLXRleHQkBgAAAAAAAFEGAAAAAAAALQAAACBsZWFybmluZy1naXQgICAgICAgICAgICAgICAgICAgICAgICAgICB1ZGVteVIGAAAAAAAAfgYAAAAAAAAsAAAAIGxlYXJuaW5nLWh0bWwgICAgICAgICAgICAgICAgICAgICAgICAgIHVmcGF/BgAAAAAAALsGAAAAAAAAPAAAACBsZWFybmluZ19qcyAgICAgICAgICAgICAgICAgICAgICAgICAgICB3ZWItc2NyLXByb2dyYW1hdGhvcrwGAAAAAAAA8AYAAAAAAAA0AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgIipjZWxlcnkqIvEGAAAAAAAAIwcAAAAAAAAyAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgKmNlbGVyeSojBwAAAAAAAD8HAAAAAAAAAAAAAD8HAAAAAAAAQAcAAAAAAAAAAAAAQAcAAAAAAABABwAAAAAAAAAAAABABwAAAAAAAFwHAAAAAAAAAAAAAFwHAAAAAAAAXQcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwcAAAAAAAAjBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					207,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAEAHAAAAAAAAcgcAAAAAAAAdAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCA",
+					"AQAAAAAAAAABAAAAXQcAAAAAAABdBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					209,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAEAHAAAAAAAAcQcAAAAAAAAyAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgKmNlbGVyeSpxBwAAAAAAAI4HAAAAAAAAAAAAAHEHAAAAAAAAcQcAAAAAAAAdAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAcgcAAAAAAAByBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					211,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAEAHAAAAAAAAcAcAAAAAAAAxAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgKmNlbGVyeXAHAAAAAAAAjgcAAAAAAAAAAAAAcAcAAAAAAABwBwAAAAAAAB4AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAcQcAAAAAAABxBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					213,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAEAHAAAAAAAAbwcAAAAAAAAwAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgKmNlbGVybwcAAAAAAACOBwAAAAAAAAAAAABvBwAAAAAAAG8HAAAAAAAAHwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAcAcAAAAAAABwBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					215,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAEAHAAAAAAAAbgcAAAAAAAAvAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgKmNlbGVuBwAAAAAAAI4HAAAAAAAAAAAAAG4HAAAAAAAAbgcAAAAAAAAgAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAbwcAAAAAAABvBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					217,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAEAHAAAAAAAAbQcAAAAAAAAuAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgKmNlbG0HAAAAAAAAjgcAAAAAAAAAAAAAbQcAAAAAAABtBwAAAAAAACEAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAbgcAAAAAAABuBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					219,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAEAHAAAAAAAAbAcAAAAAAAAtAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgKmNlbAcAAAAAAACOBwAAAAAAAAAAAABsBwAAAAAAAGwHAAAAAAAAIgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAbQcAAAAAAABtBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					221,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAEAHAAAAAAAAawcAAAAAAAAsAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgKmNrBwAAAAAAAI4HAAAAAAAAAAAAAGsHAAAAAAAAawcAAAAAAAAjAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAbAcAAAAAAABsBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					223,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAEAHAAAAAAAAaQcAAAAAAAArAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgKmkHAAAAAAAAjgcAAAAAAAAAAAAAagcAAAAAAABqBwAAAAAAACQAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAawcAAAAAAABrBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					225,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAEAHAAAAAAAAaQcAAAAAAAAqAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXAgaQcAAAAAAACOBwAAAAAAAAAAAABpBwAAAAAAAGkHAAAAAAAAJQAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAagcAAAAAAABqBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					227,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAEAHAAAAAAAAaAcAAAAAAAApAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZXBoBwAAAAAAAI4HAAAAAAAAAAAAAGgHAAAAAAAAaAcAAAAAAAAmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAaQcAAAAAAABpBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					229,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAEAHAAAAAAAAZwcAAAAAAAAoAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZWcHAAAAAAAAjgcAAAAAAAAAAAAAZwcAAAAAAABnBwAAAAAAACcAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAaAcAAAAAAABoBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					231,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAEAHAAAAAAAAZgcAAAAAAAAnAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdyZgcAAAAAAACOBwAAAAAAAAAAAABmBwAAAAAAAGYHAAAAAAAAKAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAZwcAAAAAAABnBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					233,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAEAHAAAAAAAAZAcAAAAAAAAmAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGdkBwAAAAAAAI4HAAAAAAAAAAAAAGUHAAAAAAAAZQcAAAAAAAApAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAZgcAAAAAAABmBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					235,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAEAHAAAAAAAAZAcAAAAAAAAlAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8IGQHAAAAAAAAjgcAAAAAAAAAAAAAZAcAAAAAAABkBwAAAAAAACoAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAZQcAAAAAAABlBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					237,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAEAHAAAAAAAAYgcAAAAAAAAkAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiB8YgcAAAAAAACOBwAAAAAAAAAAAABjBwAAAAAAAGMHAAAAAAAAKwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAZAcAAAAAAABkBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					239,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAEAHAAAAAAAAYgcAAAAAAAAjAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAtZiBiBwAAAAAAAI4HAAAAAAAAAAAAAGIHAAAAAAAAYgcAAAAAAAAsAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAYwcAAAAAAABjBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					241,
+					1,
+					"terminus_render",
+					null,
+					"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"
+				],
+				[
+					243,
+					1,
+					"terminus_render",
+					null,
+					"AQAAACgOAAAAAAAARg4AAAAAAAAdAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCA",
+					"AQAAAAAAAAABAAAARQ4AAAAAAABFDgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					245,
+					1,
+					"terminus_render",
+					null,
+					"AQAAACgOAAAAAAAARw4AAAAAAAAeAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBs",
+					"AQAAAAAAAAABAAAARg4AAAAAAABGDgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					247,
+					2,
+					"terminus_render",
+					null,
+					"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"
+				],
+				[
+					249,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAJUUAAAAAAAAsxQAAAAAAAAdAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCA",
+					"AQAAAAAAAAABAAAAshQAAAAAAACyFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					251,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAJUUAAAAAAAAtBQAAAAAAAAeAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBs",
+					"AQAAAAAAAAABAAAAsxQAAAAAAACzFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					253,
+					1,
+					"terminus_render",
+					null,
+					"AgAAAJUUAAAAAAAAtBQAAAAAAAAfAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBsc7QUAAAAAAAAtRQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtBQAAAAAAAC0FAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					255,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAJUUAAAAAAAAthQAAAAAAAAgAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyA",
+					"AQAAAAAAAAABAAAAtRQAAAAAAAC1FAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					257,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAJUUAAAAAAAAtxQAAAAAAAAhAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBscyAt",
+					"AQAAAAAAAAABAAAAthQAAAAAAAC2FAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					259,
+					1,
+					"terminus_render",
+					null,
+					"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"
+				],
+				[
+					261,
+					1,
+					"terminus_render",
+					null,
+					"AQAAADkbAAAAAAAAVxsAAAAAAAAdAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCA",
+					"AQAAAAAAAAABAAAAVhsAAAAAAABWGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					263,
+					1,
+					"terminus_render",
+					null,
+					"AQAAADkbAAAAAAAAWBsAAAAAAAAeAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBz",
+					"AQAAAAAAAAABAAAAVxsAAAAAAABXGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					265,
+					1,
+					"terminus_render",
+					null,
+					"AQAAADkbAAAAAAAAWRsAAAAAAAAfAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdQ",
+					"AQAAAAAAAAABAAAAWBsAAAAAAABYGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					267,
+					1,
+					"terminus_render",
+					null,
+					"AQAAADkbAAAAAAAAWhsAAAAAAAAgAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWI",
+					"AQAAAAAAAAABAAAAWRsAAAAAAABZGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					269,
+					1,
+					"terminus_render",
+					null,
+					"AgAAADkbAAAAAAAAWhsAAAAAAAAhAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsWhsAAAAAAABbGwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWhsAAAAAAABaGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					271,
+					1,
+					"terminus_render",
+					null,
+					"AQAAADkbAAAAAAAAXBsAAAAAAAAiAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIA",
+					"AQAAAAAAAAABAAAAWxsAAAAAAABbGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					273,
+					1,
+					"terminus_render",
+					null,
+					"AQAAADkbAAAAAAAAXRsAAAAAAAAjAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIC4",
+					"AQAAAAAAAAABAAAAXBsAAAAAAABcGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					275,
+					1,
+					"terminus_render",
+					null,
+					"AQAAADkbAAAAAAAAXhsAAAAAAAAkAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIC4u",
+					"AQAAAAAAAAABAAAAXRsAAAAAAABdGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					277,
+					1,
+					"terminus_render",
+					null,
+					"AQAAADkbAAAAAAAAXxsAAAAAAAAlAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIC4uLw",
+					"AQAAAAAAAAABAAAAXhsAAAAAAABeGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					279,
+					1,
+					"terminus_render",
+					null,
+					"AQAAADkbAAAAAAAAYBsAAAAAAAAmAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIC4uL2w",
+					"AQAAAAAAAAABAAAAXxsAAAAAAABfGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					281,
+					1,
+					"terminus_render",
+					null,
+					"AQAAADkbAAAAAAAAYRsAAAAAAAAnAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIC4uL2xl",
+					"AQAAAAAAAAABAAAAYBsAAAAAAABgGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					284,
+					1,
+					"terminus_render",
+					null,
+					"AQAAADkbAAAAAAAAYhsAAAAAAAAoAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIC4uL2xlYQ",
+					"AQAAAAAAAAABAAAAYRsAAAAAAABhGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					286,
+					1,
+					"terminus_render",
+					null,
+					"AwAAADkbAAAAAAAAYRsAAAAAAAApAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIC4uL2xlYWFhGwAAAAAAAIcbAAAAAAAAAAAAAGEbAAAAAAAAYRsAAAAAAAAmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAYhsAAAAAAABiGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					289,
+					2,
+					"terminus_render",
+					null,
+					"BgAAADkbAAAAAAAAYBsAAAAAAAAoAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIC4uL2xlYWAbAAAAAAAAhxsAAAAAAAAAAAAAYBsAAAAAAABgGwAAAAAAACcAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA5GwAAAAAAAF8bAAAAAAAAJwAAAGJydW5vQGxpbnV4On4vRG9jdW1lbnRzL2RldiQgc3VibCAuLi9sZV8bAAAAAAAAhxsAAAAAAAAAAAAAXxsAAAAAAABfGwAAAAAAACgAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAYBsAAAAAAABgGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					291,
+					1,
+					"terminus_render",
+					null,
+					"AwAAADkbAAAAAAAAXhsAAAAAAAAmAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIC4uL2xeGwAAAAAAAIcbAAAAAAAAAAAAAF4bAAAAAAAAXhsAAAAAAAApAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAXxsAAAAAAABfGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					293,
+					1,
+					"terminus_render",
+					null,
+					"AwAAADkbAAAAAAAAXRsAAAAAAAAlAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIC4uL10bAAAAAAAAhxsAAAAAAAAAAAAAXRsAAAAAAABdGwAAAAAAACoAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAXhsAAAAAAABeGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					295,
+					1,
+					"terminus_render",
+					null,
+					"AwAAADkbAAAAAAAAXBsAAAAAAAAkAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIC4uXBsAAAAAAACHGwAAAAAAAAAAAABcGwAAAAAAAFwbAAAAAAAAKwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAXRsAAAAAAABdGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					297,
+					1,
+					"terminus_render",
+					null,
+					"AwAAADkbAAAAAAAAWhsAAAAAAAAjAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIC5aGwAAAAAAAIcbAAAAAAAAAAAAAFsbAAAAAAAAWxsAAAAAAAAsAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAXBsAAAAAAABcGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					299,
+					1,
+					"terminus_render",
+					null,
+					"AwAAADkbAAAAAAAAXBsAAAAAAAAiAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIFwbAAAAAAAAhxsAAAAAAAAAAAAAXBsAAAAAAABcGwAAAAAAACsAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAWxsAAAAAAABbGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					301,
+					1,
+					"terminus_render",
+					null,
+					"AwAAADkbAAAAAAAAXRsAAAAAAAAjAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIGxdGwAAAAAAAIcbAAAAAAAAAAAAAF0bAAAAAAAAXRsAAAAAAAAqAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAXBsAAAAAAABcGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					303,
+					1,
+					"terminus_render",
+					null,
+					"AwAAADkbAAAAAAAAYxsAAAAAAAAkAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIGxlYxsAAAAAAACHGwAAAAAAAAAAAABjGwAAAAAAAGMbAAAAAAAAJAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAXRsAAAAAAABdGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					305,
+					1,
+					"terminus_render",
+					null,
+					"AwAAADkbAAAAAAAAZBsAAAAAAAAqAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIGxlYXJuaW5nZBsAAAAAAACHGwAAAAAAAAAAAABkGwAAAAAAAGQbAAAAAAAAIwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAYxsAAAAAAABjGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					307,
+					1,
+					"terminus_render",
+					null,
+					"AwAAADkbAAAAAAAAZRsAAAAAAAArAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIGxlYXJuaW5nLWUbAAAAAAAAhxsAAAAAAAAAAAAAZRsAAAAAAABlGwAAAAAAACIAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAZBsAAAAAAABkGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					309,
+					1,
+					"terminus_render",
+					null,
+					"AwAAADkbAAAAAAAAZhsAAAAAAAAsAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIGxlYXJuaW5nLWRmGwAAAAAAAIcbAAAAAAAAAAAAAGYbAAAAAAAAZhsAAAAAAAAhAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAZRsAAAAAAABlGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					311,
+					1,
+					"terminus_render",
+					null,
+					"AwAAADkbAAAAAAAAZxsAAAAAAAAtAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIGxlYXJuaW5nLWRpZxsAAAAAAACHGwAAAAAAAAAAAABnGwAAAAAAAGcbAAAAAAAAIAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAZhsAAAAAAABmGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					313,
+					1,
+					"terminus_render",
+					null,
+					"AwAAADkbAAAAAAAAeBsAAAAAAAAuAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIGxlYXJuaW5nLWRpc3gbAAAAAAAAhxsAAAAAAAAAAAAAeBsAAAAAAAB4GwAAAAAAAA8AAAAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAZxsAAAAAAABnGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					315,
+					2,
+					"terminus_render",
+					null,
+					"EAAAADMZAAAAAAAAZxkAAAAAAAA0AAAAIGpvYW8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2dyYW1hdGhvcmgZAAAAAAAAmxkAAAAAAAAzAAAAIGxlYXJuaW5nLWF3cyAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldHVwLWxpbnV4nBkAAAAAAADOGQAAAAAAADIAAAAgbGVhcm5pbmctYm9vdHN0cmFwICAgICAgICAgICAgICAgICAgICAnU2l0ZSBMR0hNJ88ZAAAAAAAAARoAAAAAAAAyAAAAIGxlYXJuaW5nLWNzcyAgICAgICAgICAgICAgICAgICAgICAgICAgIHNpdGVfcm9ib3QCGgAAAAAAAD8aAAAAAAAAPQAAACBsZWFybmluZy1kYXRhLXNjaWVuY2UgICAgICAgICAgICAgICAgICBzb2Z0d2FyZS1mdW5kYW1lbnRhbHNAGgAAAAAAAGsaAAAAAAAAKwAAACBsZWFybmluZy1kaXN0cmlidXRlZC1zeXN0ZW1zICAgICAgICAgICBzdDNsGgAAAAAAAKAaAAAAAAAANAAAACBsZWFybmluZy1kb2NrZXIgICAgICAgICAgICAgICAgICAgICAgICBzdWJsaW1lLXRleHShGgAAAAAAAM4aAAAAAAAALQAAACBsZWFybmluZy1mbGFzayAgICAgICAgICAgICAgICAgICAgICAgICB1ZGVtec8aAAAAAAAA+xoAAAAAAAAsAAAAIGxlYXJuaW5nLWdpdCAgICAgICAgICAgICAgICAgICAgICAgICAgIHVmcGH8GgAAAAAAADgbAAAAAAAAPAAAACBsZWFybmluZy1odG1sICAgICAgICAgICAgICAgICAgICAgICAgICB3ZWItc2NyLXByb2dyYW1hdGhvcjkbAAAAAAAAeBsAAAAAAAA/AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIGxlYXJuaW5nLWRpc3RyaWJ1dGVkLXN5c3RlbXMveBsAAAAAAACHGwAAAAAAAAAAAACHGwAAAAAAAIgbAAAAAAAAAAAAAIgbAAAAAAAAiBsAAAAAAAAAAAAAiBsAAAAAAACkGwAAAAAAAAAAAACkGwAAAAAAAKUbAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeBsAAAAAAAB4GwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					317,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAIgbAAAAAAAAxxsAAAAAAAAdAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCA",
+					"AQAAAAAAAAABAAAApRsAAAAAAAClGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					319,
+					2,
+					"terminus_render",
+					null,
+					"EAAAAGgZAAAAAAAAmxkAAAAAAAAzAAAAIGxlYXJuaW5nLWF3cyAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldHVwLWxpbnV4nBkAAAAAAADOGQAAAAAAADIAAAAgbGVhcm5pbmctYm9vdHN0cmFwICAgICAgICAgICAgICAgICAgICAnU2l0ZSBMR0hNJ88ZAAAAAAAAARoAAAAAAAAyAAAAIGxlYXJuaW5nLWNzcyAgICAgICAgICAgICAgICAgICAgICAgICAgIHNpdGVfcm9ib3QCGgAAAAAAAD8aAAAAAAAAPQAAACBsZWFybmluZy1kYXRhLXNjaWVuY2UgICAgICAgICAgICAgICAgICBzb2Z0d2FyZS1mdW5kYW1lbnRhbHNAGgAAAAAAAGsaAAAAAAAAKwAAACBsZWFybmluZy1kaXN0cmlidXRlZC1zeXN0ZW1zICAgICAgICAgICBzdDNsGgAAAAAAAKAaAAAAAAAANAAAACBsZWFybmluZy1kb2NrZXIgICAgICAgICAgICAgICAgICAgICAgICBzdWJsaW1lLXRleHShGgAAAAAAAM4aAAAAAAAALQAAACBsZWFybmluZy1mbGFzayAgICAgICAgICAgICAgICAgICAgICAgICB1ZGVtec8aAAAAAAAA+xoAAAAAAAAsAAAAIGxlYXJuaW5nLWdpdCAgICAgICAgICAgICAgICAgICAgICAgICAgIHVmcGH8GgAAAAAAADgbAAAAAAAAPAAAACBsZWFybmluZy1odG1sICAgICAgICAgICAgICAgICAgICAgICAgICB3ZWItc2NyLXByb2dyYW1hdGhvcjkbAAAAAAAAeBsAAAAAAABOAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIGxlYXJuaW5nLWRpc3RyaWJ1dGVkLXN5c3RlbXMvICAgICAgICAgICAgICAgeBsAAAAAAACHGwAAAAAAAAAAAACIGwAAAAAAAMcbAAAAAAAAPwAAAGJydW5vQGxpbnV4On4vRG9jdW1lbnRzL2RldiQgc3VibCBsZWFybmluZy1kaXN0cmlidXRlZC1zeXN0ZW1zL8cbAAAAAAAAyBsAAAAAAAAAAAAAyBsAAAAAAADIGwAAAAAAAAAAAADIGwAAAAAAAOQbAAAAAAAAAAAAAOQbAAAAAAAA5RsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxxsAAAAAAADHGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					321,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAMgbAAAAAAAABxwAAAAAAAAdAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCA",
+					"AQAAAAAAAAABAAAA5RsAAAAAAADlGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					323,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAMgbAAAAAAAABhwAAAAAAAA/AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIGxlYXJuaW5nLWRpc3RyaWJ1dGVkLXN5c3RlbXMvBhwAAAAAAAAWHAAAAAAAAAAAAAAGHAAAAAAAAAYcAAAAAAAAEAAAACAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAABxwAAAAAAAAHHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					325,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAMgbAAAAAAAABxwAAAAAAAA+AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIGxlYXJuaW5nLWRpc3RyaWJ1dGVkLXN5c3RlbXMHHAAAAAAAABYcAAAAAAAAAAAAAAccAAAAAAAABxwAAAAAAAAPAAAAICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAABhwAAAAAAAAGHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					327,
+					2,
+					"terminus_render",
+					null,
+					"EQAAAJwZAAAAAAAAzhkAAAAAAAAyAAAAIGxlYXJuaW5nLWJvb3RzdHJhcCAgICAgICAgICAgICAgICAgICAgJ1NpdGUgTEdITSfPGQAAAAAAAAEaAAAAAAAAMgAAACBsZWFybmluZy1jc3MgICAgICAgICAgICAgICAgICAgICAgICAgICBzaXRlX3JvYm90AhoAAAAAAAA/GgAAAAAAAD0AAAAgbGVhcm5pbmctZGF0YS1zY2llbmNlICAgICAgICAgICAgICAgICAgc29mdHdhcmUtZnVuZGFtZW50YWxzQBoAAAAAAABrGgAAAAAAACsAAAAgbGVhcm5pbmctZGlzdHJpYnV0ZWQtc3lzdGVtcyAgICAgICAgICAgc3QzbBoAAAAAAACgGgAAAAAAADQAAAAgbGVhcm5pbmctZG9ja2VyICAgICAgICAgICAgICAgICAgICAgICAgc3VibGltZS10ZXh0oRoAAAAAAADOGgAAAAAAAC0AAAAgbGVhcm5pbmctZmxhc2sgICAgICAgICAgICAgICAgICAgICAgICAgdWRlbXnPGgAAAAAAAPsaAAAAAAAALAAAACBsZWFybmluZy1naXQgICAgICAgICAgICAgICAgICAgICAgICAgICB1ZnBh/BoAAAAAAAA4GwAAAAAAADwAAAAgbGVhcm5pbmctaHRtbCAgICAgICAgICAgICAgICAgICAgICAgICAgd2ViLXNjci1wcm9ncmFtYXRob3I5GwAAAAAAAHgbAAAAAAAATgAAAGJydW5vQGxpbnV4On4vRG9jdW1lbnRzL2RldiQgc3VibCBsZWFybmluZy1kaXN0cmlidXRlZC1zeXN0ZW1zLyAgICAgICAgICAgICAgIHgbAAAAAAAAhxsAAAAAAAAAAAAAiBsAAAAAAADHGwAAAAAAAD8AAABicnVub0BsaW51eDp+L0RvY3VtZW50cy9kZXYkIHN1YmwgbGVhcm5pbmctZGlzdHJpYnV0ZWQtc3lzdGVtcy/IGwAAAAAAAAccAAAAAAAAPwAAAGJydW5vQGxpbnV4On4vRG9jdW1lbnRzL2RldiQgc3VibCBsZWFybmluZy1kaXN0cmlidXRlZC1zeXN0ZW1zLwccAAAAAAAAFhwAAAAAAAAAAAAAFhwAAAAAAAAXHAAAAAAAAAAAAAAXHAAAAAAAABccAAAAAAAAAAAAABccAAAAAAAAMxwAAAAAAAAAAAAAMxwAAAAAAAA0HAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABxwAAAAAAAAHHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					329,
+					1,
+					"terminus_render",
+					null,
+					"AQAAABccAAAAAAAANRwAAAAAAAAdAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCA",
+					"AQAAAAAAAAABAAAANBwAAAAAAAA0HAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					331,
+					1,
+					"terminus_render",
+					null,
+					"AQAAABccAAAAAAAANhwAAAAAAAAeAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBj",
+					"AQAAAAAAAAABAAAANRwAAAAAAAA1HAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					333,
+					1,
+					"terminus_render",
+					null,
+					"AgAAABccAAAAAAAANhwAAAAAAAAfAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBjZDYcAAAAAAAANxwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANhwAAAAAAAA2HAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					335,
+					1,
+					"terminus_render",
+					null,
+					"AQAAABccAAAAAAAAOBwAAAAAAAAgAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBjZCA",
+					"AQAAAAAAAAABAAAANxwAAAAAAAA3HAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					337,
+					1,
+					"terminus_render",
+					null,
+					"AQAAABccAAAAAAAAORwAAAAAAAAhAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBjZCBs",
+					"AQAAAAAAAAABAAAAOBwAAAAAAAA4HAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					339,
+					1,
+					"terminus_render",
+					null,
+					"AQAAABccAAAAAAAAPxwAAAAAAAAiAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBjZCBsZQ",
+					"AQAAAAAAAAABAAAAORwAAAAAAAA5HAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					341,
+					1,
+					"terminus_render",
+					null,
+					"AQAAABccAAAAAAAAQBwAAAAAAAAoAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBjZCBsZWFybmluZw",
+					"AQAAAAAAAAABAAAAPxwAAAAAAAA/HAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					343,
+					1,
+					"terminus_render",
+					null,
+					"AQAAABccAAAAAAAAQRwAAAAAAAApAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBjZCBsZWFybmluZy0",
+					"AQAAAAAAAAABAAAAQBwAAAAAAABAHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					345,
+					1,
+					"terminus_render",
+					null,
+					"AQAAABccAAAAAAAAQhwAAAAAAAAqAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBjZCBsZWFybmluZy1k",
+					"AQAAAAAAAAABAAAAQRwAAAAAAABBHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					347,
+					1,
+					"terminus_render",
+					null,
+					"AQAAABccAAAAAAAAVBwAAAAAAAArAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBjZCBsZWFybmluZy1kaQ",
+					"AQAAAAAAAAABAAAAQhwAAAAAAABCHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					349,
+					1,
+					"terminus_render",
+					null,
+					"EAAAAM8ZAAAAAAAAARoAAAAAAAAyAAAAIGxlYXJuaW5nLWNzcyAgICAgICAgICAgICAgICAgICAgICAgICAgIHNpdGVfcm9ib3QCGgAAAAAAAD8aAAAAAAAAPQAAACBsZWFybmluZy1kYXRhLXNjaWVuY2UgICAgICAgICAgICAgICAgICBzb2Z0d2FyZS1mdW5kYW1lbnRhbHNAGgAAAAAAAGsaAAAAAAAAKwAAACBsZWFybmluZy1kaXN0cmlidXRlZC1zeXN0ZW1zICAgICAgICAgICBzdDNsGgAAAAAAAKAaAAAAAAAANAAAACBsZWFybmluZy1kb2NrZXIgICAgICAgICAgICAgICAgICAgICAgICBzdWJsaW1lLXRleHShGgAAAAAAAM4aAAAAAAAALQAAACBsZWFybmluZy1mbGFzayAgICAgICAgICAgICAgICAgICAgICAgICB1ZGVtec8aAAAAAAAA+xoAAAAAAAAsAAAAIGxlYXJuaW5nLWdpdCAgICAgICAgICAgICAgICAgICAgICAgICAgIHVmcGH8GgAAAAAAADgbAAAAAAAAPAAAACBsZWFybmluZy1odG1sICAgICAgICAgICAgICAgICAgICAgICAgICB3ZWItc2NyLXByb2dyYW1hdGhvcjkbAAAAAAAAeBsAAAAAAABOAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIGxlYXJuaW5nLWRpc3RyaWJ1dGVkLXN5c3RlbXMvICAgICAgICAgICAgICAgeBsAAAAAAACHGwAAAAAAAAAAAACIGwAAAAAAAMcbAAAAAAAAPwAAAGJydW5vQGxpbnV4On4vRG9jdW1lbnRzL2RldiQgc3VibCBsZWFybmluZy1kaXN0cmlidXRlZC1zeXN0ZW1zL8gbAAAAAAAABxwAAAAAAABOAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIGxlYXJuaW5nLWRpc3RyaWJ1dGVkLXN5c3RlbXMvICAgICAgICAgICAgICAgBxwAAAAAAAAWHAAAAAAAAAAAAAAXHAAAAAAAAFQcAAAAAAAAPQAAAGJydW5vQGxpbnV4On4vRG9jdW1lbnRzL2RldiQgY2QgbGVhcm5pbmctZGlzdHJpYnV0ZWQtc3lzdGVtcy9UHAAAAAAAAFUcAAAAAAAAAAAAAFUcAAAAAAAAjhwAAAAAAAAAAAAAjhwAAAAAAACPHAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVBwAAAAAAABUHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					351,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAFUcAAAAAAAAkBwAAAAAAAA6AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xlYXJuaW5nLWRpc3RyaWJ1dGVkLXN5c3RlbXMkIA",
+					"AQAAAAAAAAABAAAAjxwAAAAAAACPHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					353,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAFUcAAAAAAAAkRwAAAAAAAA7AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xlYXJuaW5nLWRpc3RyaWJ1dGVkLXN5c3RlbXMkIHM",
+					"AQAAAAAAAAABAAAAkBwAAAAAAACQHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					355,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAFUcAAAAAAAAkhwAAAAAAAA8AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xlYXJuaW5nLWRpc3RyaWJ1dGVkLXN5c3RlbXMkIHN1",
+					"AQAAAAAAAAABAAAAkRwAAAAAAACRHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					357,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAFUcAAAAAAAAkxwAAAAAAAA9AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xlYXJuaW5nLWRpc3RyaWJ1dGVkLXN5c3RlbXMkIHN1Yg",
+					"AQAAAAAAAAABAAAAkhwAAAAAAACSHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					359,
+					1,
+					"terminus_render",
+					null,
+					"AgAAAFUcAAAAAAAAkxwAAAAAAAA+AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xlYXJuaW5nLWRpc3RyaWJ1dGVkLXN5c3RlbXMkIHN1YmyTHAAAAAAAAJQcAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkxwAAAAAAACTHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					362,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAFUcAAAAAAAAlRwAAAAAAAA/AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xlYXJuaW5nLWRpc3RyaWJ1dGVkLXN5c3RlbXMkIHN1Ymwg",
+					"AQAAAAAAAAABAAAAlBwAAAAAAACUHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					364,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAFUcAAAAAAAAlhwAAAAAAABAAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xlYXJuaW5nLWRpc3RyaWJ1dGVkLXN5c3RlbXMkIHN1YmwgbA",
+					"AQAAAAAAAAABAAAAlRwAAAAAAACVHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					366,
+					1,
+					"terminus_render",
+					null,
+					"DwAAAAIaAAAAAAAAPxoAAAAAAAA9AAAAIGxlYXJuaW5nLWRhdGEtc2NpZW5jZSAgICAgICAgICAgICAgICAgIHNvZnR3YXJlLWZ1bmRhbWVudGFsc0AaAAAAAAAAaxoAAAAAAAArAAAAIGxlYXJuaW5nLWRpc3RyaWJ1dGVkLXN5c3RlbXMgICAgICAgICAgIHN0M2waAAAAAAAAoBoAAAAAAAA0AAAAIGxlYXJuaW5nLWRvY2tlciAgICAgICAgICAgICAgICAgICAgICAgIHN1YmxpbWUtdGV4dKEaAAAAAAAAzhoAAAAAAAAtAAAAIGxlYXJuaW5nLWZsYXNrICAgICAgICAgICAgICAgICAgICAgICAgIHVkZW15zxoAAAAAAAD7GgAAAAAAACwAAAAgbGVhcm5pbmctZ2l0ICAgICAgICAgICAgICAgICAgICAgICAgICAgdWZwYfwaAAAAAAAAOBsAAAAAAAA8AAAAIGxlYXJuaW5nLWh0bWwgICAgICAgICAgICAgICAgICAgICAgICAgIHdlYi1zY3ItcHJvZ3JhbWF0aG9yORsAAAAAAAB4GwAAAAAAAE4AAABicnVub0BsaW51eDp+L0RvY3VtZW50cy9kZXYkIHN1YmwgbGVhcm5pbmctZGlzdHJpYnV0ZWQtc3lzdGVtcy8gICAgICAgICAgICAgICB4GwAAAAAAAIcbAAAAAAAAAAAAAIgbAAAAAAAAxxsAAAAAAAA/AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIGxlYXJuaW5nLWRpc3RyaWJ1dGVkLXN5c3RlbXMvyBsAAAAAAAAHHAAAAAAAAE4AAABicnVub0BsaW51eDp+L0RvY3VtZW50cy9kZXYkIHN1YmwgbGVhcm5pbmctZGlzdHJpYnV0ZWQtc3lzdGVtcy8gICAgICAgICAgICAgICAHHAAAAAAAABYcAAAAAAAAAAAAABccAAAAAAAAVBwAAAAAAAA9AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBjZCBsZWFybmluZy1kaXN0cmlidXRlZC1zeXN0ZW1zL1UcAAAAAAAAphwAAAAAAABBAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xlYXJuaW5nLWRpc3RyaWJ1dGVkLXN5c3RlbXMkIHN1YmwgbGWmHAAAAAAAAKccAAAAAAAAAAAAAKccAAAAAAAAvRwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlhwAAAAAAACWHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					368,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAKccAAAAAAAAvhwAAAAAAAAWAAAAYnV0ZWQtc3lzdGVtcy5zdWJsaW1lLQ",
+					"AQAAAAAAAAABAAAAvRwAAAAAAAC9HAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					370,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAKccAAAAAAAAvxwAAAAAAAAXAAAAYnV0ZWQtc3lzdGVtcy5zdWJsaW1lLXA",
+					"AQAAAAAAAAABAAAAvhwAAAAAAAC+HAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					372,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAKccAAAAAAAAwBwAAAAAAAAYAAAAYnV0ZWQtc3lzdGVtcy5zdWJsaW1lLXBy",
+					"AQAAAAAAAAABAAAAvxwAAAAAAAC/HAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					374,
+					1,
+					"terminus_render",
+					null,
+					"AgAAAKccAAAAAAAAxBwAAAAAAAAZAAAAYnV0ZWQtc3lzdGVtcy5zdWJsaW1lLXByb8QcAAAAAAAAxRwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwBwAAAAAAADAHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					376,
+					2,
+					"terminus_render",
+					null,
+					"EgAAAEAaAAAAAAAAaxoAAAAAAAArAAAAIGxlYXJuaW5nLWRpc3RyaWJ1dGVkLXN5c3RlbXMgICAgICAgICAgIHN0M2waAAAAAAAAoBoAAAAAAAA0AAAAIGxlYXJuaW5nLWRvY2tlciAgICAgICAgICAgICAgICAgICAgICAgIHN1YmxpbWUtdGV4dKEaAAAAAAAAzhoAAAAAAAAtAAAAIGxlYXJuaW5nLWZsYXNrICAgICAgICAgICAgICAgICAgICAgICAgIHVkZW15zxoAAAAAAAD7GgAAAAAAACwAAAAgbGVhcm5pbmctZ2l0ICAgICAgICAgICAgICAgICAgICAgICAgICAgdWZwYfwaAAAAAAAAOBsAAAAAAAA8AAAAIGxlYXJuaW5nLWh0bWwgICAgICAgICAgICAgICAgICAgICAgICAgIHdlYi1zY3ItcHJvZ3JhbWF0aG9yORsAAAAAAAB4GwAAAAAAAE4AAABicnVub0BsaW51eDp+L0RvY3VtZW50cy9kZXYkIHN1YmwgbGVhcm5pbmctZGlzdHJpYnV0ZWQtc3lzdGVtcy8gICAgICAgICAgICAgICB4GwAAAAAAAIcbAAAAAAAAAAAAAIgbAAAAAAAAxxsAAAAAAAA/AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBzdWJsIGxlYXJuaW5nLWRpc3RyaWJ1dGVkLXN5c3RlbXMvyBsAAAAAAAAHHAAAAAAAAE4AAABicnVub0BsaW51eDp+L0RvY3VtZW50cy9kZXYkIHN1YmwgbGVhcm5pbmctZGlzdHJpYnV0ZWQtc3lzdGVtcy8gICAgICAgICAgICAgICAHHAAAAAAAABYcAAAAAAAAAAAAABccAAAAAAAAVBwAAAAAAAA9AAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2JCBjZCBsZWFybmluZy1kaXN0cmlidXRlZC1zeXN0ZW1zL1UcAAAAAAAAphwAAAAAAABXAAAAYnJ1bm9AbGludXg6fi9Eb2N1bWVudHMvZGV2L2xlYXJuaW5nLWRpc3RyaWJ1dGVkLXN5c3RlbXMkIHN1YmwgbGVhcm5pbmctZGlzdHJp4oCL4oCM4oCLpxwAAAAAAADEHAAAAAAAAB4AAABidXRlZC1zeXN0ZW1zLnN1YmxpbWUtcHJvamVjdCDEHAAAAAAAAMUcAAAAAAAAAAAAAMUcAAAAAAAAxhwAAAAAAAAAAAAAxhwAAAAAAADGHAAAAAAAAAAAAADGHAAAAAAAAP8cAAAAAAAAAAAAAP8cAAAAAAAAAB0AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxRwAAAAAAADFHAAAAAAAAAAAAAAAAPC/"
+				]
+			]
 		}
 	],
 	"build_system": "lgdc covid 19 and malaria terminal",
@@ -677,6 +1978,14 @@
 			[
 				"rt",
 				"Terminus: Rename Title"
+			],
+			[
+				"Package Control: disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: disa",
+				"Package Control: Disable Package"
 			],
 			[
 				"settings",
@@ -826,25 +2135,47 @@
 		"show_minimap": false,
 		"show_open_files": false,
 		"show_tabs": false,
-		"side_bar_visible": false,
+		"side_bar_visible": true,
 		"status_bar_visible": false
 	},
 	"expanded_folders":
 	[
-		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria",
-		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed",
-		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed/data_01_AM_mun_especie",
-		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed/data_01_AM_mun_especie/Estado",
-		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed/data_01_AM_mun_especie/falciparum",
-		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed/data_01_AM_mun_especie/vivax",
-		"/home/bruno/Documents/dev/learning-data-science/pandas",
-		"/home/bruno/Documents/dev/learning-data-science/data_visualization"
+		"/home/bruno/Documents/dev/learning-distributed-systems",
+		"/home/bruno/Documents/dev/learning-distributed-systems/celery",
+		"/home/bruno/Documents/dev/learning-distributed-systems/celery/section-1",
+		"/home/bruno/Documents/dev/learning-distributed-systems/celery/section-2"
 	],
 	"file_history":
 	[
-		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/venv-lgdc-covid-19-and-malaria/lib/python3.8/site-packages/seaborn/categorical.py",
-		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/data_visualization_01_data_01_AM_mun_especie.py",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_03_data_analysis/load_datasets.py",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_09/data_dictionary.csv",
+		"/home/bruno/Documents/dev/learning-data-science/pandas/02_dataframe.py",
+		"/home/bruno/Documents/dev/learning-data-science/numpy/arrays.py",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_03_data_analysis/data_analysis_06.py",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_03_data_analysis/data_analysis_06_emergency_aid.ipynb",
+		"/home/bruno/Documents/dev/learning-distributed-systems/celery/section-1/01_setup.sh",
+		"/home/bruno/Documents/dev/learning-distributed-systems/celery/section-2/02_blocking_vs_non_blocking.py",
+		"/home/bruno/Documents/dev/learning-distributed-systems/celery/section-2/01_blocking_vs_non_blocking.py",
+		"/home/bruno/Documents/dev/learning-distributed-systems/course_parallel_computer/Section_1_Python_Parallel_Programming_Solutions/Section1/hello_Python_WithThreads.py",
+		"/home/bruno/Documents/dev/learning-distributed-systems/course_parallel_computer/Section_1_Python_Parallel_Programming_Solutions/Section2/determine_the_current_thread.py",
+		"/home/bruno/Documents/dev/learning-distributed-systems/course_parallel_computer/Section_1_Python_Parallel_Programming_Solutions/Section2/definining_a_thread.py",
+		"/home/bruno/Documents/dev/learning-distributed-systems/README.md",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/lgdc-covid-19-and-malaria.sublime-project",
 		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/plots.py",
+		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_01_distribution_plots.py",
+		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_02_categorical_plots.py",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/.gitignore",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/load_datasets.py",
+		"/home/bruno/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/imports.py",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/plots.py",
+		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_06_styles_and_colors.py",
+		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_05_pairgrids.py",
+		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_04_regression_plots.py",
+		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_03_matricial_plots.py",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/data_visualization_01_data_01_AM_mun_especie.py",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_03_data_analysis/output/output_01_data_01_AM_mun_especie.csv",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/venv-lgdc-covid-19-and-malaria/lib/python3.8/site-packages/seaborn/categorical.py",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output_01.png",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_16.png",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_15.png",
@@ -863,23 +2194,18 @@
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_03.png",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/output_02.png",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_03_data_analysis/data_analysis.py",
-		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_03_data_analysis/output/output_01_data_01_AM_mun_especie.csv",
-		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_01_distribution_plots.py",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/styles.py",
 		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/styles.py",
-		"/home/bruno/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_02_convert_xlsx_to_csv/convert_xlsx_to_csv.py",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_02_convert_xlsx_to_csv/convert_xslx_to_csv.py",
 		"/home/bruno/Documents/dev/pibic_2020/sprint4_data_visualization/main.py",
 		"/home/bruno/Documents/dev/pibic_2020/sprint4_data_visualization/chromossome.py",
-		"/home/bruno/Documents/dev/learning-data-science/pandas/02_dataframe.py",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_03_data_analysis/output/README.md",
 		"/home/bruno/Documents/dev/pibic_2020/sprint4_data_visualization/gene_variant_population.csv",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/requirements.txt",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_01/Amazonia_Mun_Especie_2020.csv",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_01/Amazonia_Mun_Especie_2018.csv",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_01/Amazonia_Mun_Especie_2003.csv",
-		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/lgdc-covid-19-and-malaria.sublime-project",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_01/Malaria_Casos_confirmados_Municipio_2001_ExtAmazonia.csv",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_02_convert_data_to_xslx",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_01/Amazonia_Mun_Especie_2006.csv",
@@ -948,32 +2274,11 @@
 		"/home/bruno/Documents/dev/learning-css/coder/flexbox1.html",
 		"/home/bruno/Documents/dev/learning-css/coder/flexbox2.html",
 		"/home/bruno/Documents/dev/learning-css/coder/flexbox3.html",
-		"/home/bruno/Documents/dev/learning-css/coder/flexboxMenu.html",
-		"/home/bruno/Documents/dev/learning-html/coder/poucoDeCSS.html",
-		"/home/bruno/Documents/dev/learning-html/coder/anatomiaHtml.html",
-		"/home/bruno/Documents/dev/ecosim/ecosim.sublime-project",
-		"/home/bruno/Documents/dev/learning-css/coder/display.html",
-		"/home/bruno/Documents/dev/learning-css/coder/texto.html",
-		"/home/bruno/Documents/dev/learning-css/coder/cssgrid1.html",
-		"/home/bruno/Documents/dev/learning-html/coder/poucoDeCSS.css",
-		"/home/bruno/Documents/dev/learning-html/coder/anatomiaTag.html",
-		"/home/bruno/Documents/dev/learning-flask/bootstrap/templates/index.html",
-		"/home/bruno/Documents/dev/ecosim/interface/templates/homepage.html",
-		"/home/bruno/Documents/dev/ecosim/interface/resources/model.py",
-		"/home/bruno/Documents/dev/ecosim/interface/resources/results.py",
-		"/home/bruno/Documents/dev/ecosim/interface/resources/results",
-		"/home/bruno/Documents/dev/ecosim/interface/pages/homepage/controllers/Simulation.js",
-		"/home/bruno/Documents/dev/ecosim/interface/pages/homepage/components/models/renderModels.js",
-		"/home/bruno/Documents/dev/ecosim/interface/views/parametrization.py",
-		"/home/bruno/Documents/dev/ecosim/interface/templates/pages/homepage/homepage.js",
-		"/home/bruno/Documents/dev/ecosim/interface/templates/pages/homepage/homepage.css",
-		"/home/bruno/Documents/dev/ecosim/interface/templates/pages/homepage/homepage.html",
-		"/home/bruno/Documents/dev/ecosim/test_base_server.py",
-		"/home/bruno/Documents/dev/learning-git/git.sh"
+		"/home/bruno/Documents/dev/learning-css/coder/flexboxMenu.html"
 	],
 	"find":
 	{
-		"height": 31.0
+		"height": 32.0
 	},
 	"find_in_files":
 	{
@@ -987,6 +2292,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"load_emergency_aid_zipfile",
+			"err",
 			"36",
 			"colum",
 			"pd.Data",
@@ -1003,143 +2310,34 @@
 		[
 		],
 		"reverse": false,
+		"scrollbar_highlights": true,
 		"show_context": true,
 		"use_buffer2": true,
+		"use_gitignore": true,
 		"whole_word": false,
 		"wrap": true
 	},
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "sprint_03_data_analysis/output/output_01_data_01_AM_mun_especie.csv",
+					"file": "/home/bruno/Documents/dev/learning-distributed-systems/celery/section-2/01_blocking_vs_non_blocking.py",
+					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 448581,
+						"buffer_size": 168,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								438626,
-								438626
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"pre_rainbow_syntax": "Packages/zzz A File Icon zzz/aliases/Plain Text (CSV).sublime-syntax",
-							"rainbow_checked": true,
-							"rainbow_mode": true,
-							"syntax": "Packages/rainbow_csv/pregenerated_grammars/Rainbow_CSV_hex_3b_Standard.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 7232.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 1,
-					"file": "sprint_04_data_visualization/data_visualization_01_data_01_AM_mun_especie.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10711,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5205,
-								5205
+								133,
+								133
 							]
 						],
 						"settings":
@@ -1157,10 +2355,6 @@
 								{
 									"characters": " qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP",
 									"selector": "text"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - comment - constant.numeric, meta.interpolated.format.fstring"
 								}
 							],
 							"bracket_highlighter.busy": false,
@@ -1170,133 +2364,8 @@
 								{
 									"1":
 									[
-										5231,
-										5232
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										5204,
-										5205
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content"
-							],
-							"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
-							"rainbow_checked": true,
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1023.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 2,
-			"sheets":
-			[
-				{
-					"buffer": 2,
-					"file": "/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_01_distribution_plots.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 658,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								587,
-								587
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										604,
-										605
+										132,
+										133
 									]
 								},
 								"icon":
@@ -1311,8 +2380,8 @@
 								{
 									"1":
 									[
-										587,
-										588
+										130,
+										131
 									]
 								},
 								"unmatched":
@@ -1326,832 +2395,98 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"rainbow_checked": true,
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 504.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_02_categorical_plots.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1320,
-						"regions":
-						{
-							"col_000000FF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										1123,
-										1128
-									],
-									[
-										1207,
-										1212
-									]
-								],
-								"scope": "col_000000FF"
-							},
-							"col_000000FF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_000000FF_circle.png",
-								"regions":
-								[
-									[
-										1047,
-										1047
-									],
-									[
-										1154,
-										1154
-									]
-								],
-								"scope": "col_gutter"
-							}
-						},
-						"selection":
-						[
-							[
-								975,
-								975
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"rainbow_checked": true,
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 903.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_03_matricial_plots.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1036,
-						"regions":
-						{
-							"col_808080FF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										880,
-										884
-									]
-								],
-								"scope": "col_808080FF"
-							},
-							"col_808080FF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_808080FF_circle.png",
-								"regions":
-								[
-									[
-										832,
-										832
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_FFFFFFFF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										738,
-										743
-									],
-									[
-										808,
-										815
-									]
-								],
-								"scope": "col_FFFFFFFF"
-							},
-							"col_FFFFFFFF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
-								"regions":
-								[
-									[
-										690,
-										690
-									],
-									[
-										760,
-										760
-									]
-								],
-								"scope": "col_gutter"
-							}
-						},
-						"selection":
-						[
-							[
-								519,
-								519
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"rainbow_checked": true,
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 160.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_04_regression_plots.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 942,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								847,
-								847
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"rainbow_checked": true,
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 378.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_05_pairgrids.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 839,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								761,
-								761
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"rainbow_checked": true,
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 819.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_06_styles_and_colors.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1144,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								97,
-								97
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
 							],
+							"lsp_uri": "file:///home/bruno/Documents/dev/learning-distributed-systems/celery/section-2/01_blocking_vs_non_blocking.py",
 							"rainbow_checked": true,
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 0,
+					"stack_multiselect": false,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 1,
 			"sheets":
 			[
 				{
-					"buffer": 8,
-					"file": "/home/bruno/Documents/dev/learning-data-science/pandas/02_dataframe.py",
+					"buffer": 1,
+					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8462,
+						"buffer_size": 7424,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								834,
-								834
+								7424,
+								7424
 							]
 						],
 						"settings":
 						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"rainbow_checked": true,
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1523.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "sprint_04_data_visualization/plots.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8783,
-						"regions":
-						{
-							"col_FFFFFFFF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										5195,
-										5200
-									],
-									[
-										5204,
-										5211
-									]
-								],
-								"scope": "col_FFFFFFFF"
-							},
-							"col_FFFFFFFF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
-								"regions":
-								[
-									[
-										5157,
-										5157
-									]
-								],
-								"scope": "col_gutter"
-							}
-						},
-						"selection":
-						[
-							[
-								8316,
-								8316
-							]
-						],
-						"settings":
-						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
 							"auto_complete_triggers":
 							[
 								{
@@ -2165,110 +2500,78 @@
 								{
 									"characters": " qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP",
 									"selector": "text"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - comment - constant.numeric, meta.interpolated.format.fstring"
 								}
 							],
 							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
+							"bracket_highlighter.clone_locations":
 							{
-								"close":
-								{
-									"1":
-									[
-										8397,
-										8398
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"region.yellowish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										8287,
-										8288
-									]
-								},
-								"unmatched":
-								{
-								}
 							},
-							"bracket_highlighter.regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"default_dir": "/home/bruno/Documents/dev/learning-distributed-systems/celery/section-2",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"font_size": 14,
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"line_padding_bottom": 0,
+							"line_padding_top": 0,
+							"lsp_uri": "buffer://sublime/36",
 							"rainbow_checked": true,
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"result_base_dir": "/home/bruno/Documents/dev/lgdc-covid-19-and-malaria",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus.highlight_counter": 344,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"/bin/bash",
+									"-i",
+									"-l"
+								],
+								"config_name": "Login Shell",
+								"cwd": "/home/bruno/Documents/dev/lgdc-covid-19-and-malaria",
+								"env":
+								{
+									"LANG": "en_US.UTF-8",
+									"TERM": "linux",
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.panel_name": null,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 3000.0,
+							"word_wrap": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 431.0,
+						"translation.y": 3000.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
+					"stack_multiselect": false,
 					"type": "text"
 				}
 			]
@@ -2276,7 +2579,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 31.0
+		"height": 32.0
 	},
 	"input":
 	{
@@ -2293,28 +2596,15 @@
 				1
 			],
 			[
-				1,
-				0,
-				2,
-				1
-			],
-			[
 				0,
 				1,
 				1,
-				2
-			],
-			[
-				1,
-				1,
-				2,
 				2
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -2327,7 +2617,7 @@
 	"menu_visible": true,
 	"output.Terminus":
 	{
-		"height": 190.0
+		"height": 415.0
 	},
 	"output.Terminus 2":
 	{
@@ -2361,11 +2651,11 @@
 	{
 		"height": 0.0
 	},
-	"pinned_build_system": "lgdc covid 19 and malaria",
+	"pinned_build_system": "lgdc covid 19 and malaria terminal",
 	"project": "lgdc-covid-19-and-malaria.sublime-project",
 	"replace":
 	{
-		"height": 58.0
+		"height": 60.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -2491,7 +2781,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 361.0,
+	"side_bar_width": 384.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

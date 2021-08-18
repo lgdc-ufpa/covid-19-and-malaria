@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"docu",
+				"documentation_multiprocessing/"
+			],
+			[
+				"learning-d",
+				"learning-distributed-systems/"
+			],
+			[
 				"m",
 				"numpy/"
 			],
@@ -506,69 +514,176 @@
 			[
 				"moe",
 				"mode_name"
-			],
-			[
-				"di",
-				"di_model_agent\tstatement"
-			],
-			[
-				"model",
-				"model_name\tstatement"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"contents": "(venv-lgdc-covid-19-and-malaria) bruno@linux:~/Documents/dev/lgdc-covid-19-and-malaria​‌​\n/sprint_02_convert_xlsx_to_csv$ \nbruno@linux:~/Documents/dev/lgdc-covid-19-and-malaria$ ",
+			"file": "lgdc-covid-19-and-malaria.sublime-project",
 			"settings":
 			{
-				"buffer_size": 178,
-				"line_ending": "Unix",
-				"name": "Login Shell",
-				"scratch": true
-			}
-		},
-		{
-			"file": "sprint_04_data_visualization/data_visualization_01_data_01_AM_mun_especie.py",
-			"settings":
-			{
-				"buffer_size": 10711,
+				"buffer_size": 2533,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/bruno/Documents/dev/learning-data-science/pandas/02_dataframe.py",
-			"settings":
-			{
-				"buffer_size": 8462,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_01_distribution_plots.py",
-			"settings":
-			{
-				"buffer_size": 658,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/bruno/Documents/dev/learning-data-science/data_visualization/matplotlib/matplotlib.py",
-			"settings":
-			{
-				"buffer_size": 3413,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_02_categorical_plots.py",
-			"settings":
-			{
-				"buffer_size": 1320,
-				"line_ending": "Unix"
-			}
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPsIAAAAAAAA+wgAAAAAAAA1AAAACQl7CgkJCSJwYXRoIjogIi4uL2xlYXJuaW5nLWRpc3RyaWJ1dGVkLXN5c3RlbXMvIgoJCX0",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADAJAAAAAAAA+wgAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					8,
+					2,
+					"left_delete",
+					null,
+					"AgAAAPoIAAAAAAAA+ggAAAAAAAABAAAACvkIAAAAAAAA+QgAAAAAAAABAAAALA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPsIAAAAAAAA+wgAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "docu"
+					},
+					"BAAAAPQIAAAAAAAA9QgAAAAAAAAAAAAA9QgAAAAAAAD2CAAAAAAAAAAAAAD2CAAAAAAAAPcIAAAAAAAAAAAAAPcIAAAAAAAA+AgAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPQIAAAAAAAA9AgAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					21,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAAPQIAAAAAAAA9AgAAAAAAAAEAAAAZG9jdfQIAAAAAAAADAkAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPgIAAAAAAAA+AgAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAABEJAAAAAAAAEgkAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABEJAAAAAAAAEQkAAAAAAAAAAAAAAHiKQA"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAABIJAAAAAAAAEwkAAAAAAAAAAAAAEwkAAAAAAAAVCQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABIJAAAAAAAAEgkAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					25,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAABUJAAAAAAAAFwkAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABUJAAAAAAAAFQkAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					26,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BgAAABYJAAAAAAAAFwkAAAAAAAAAAAAAFwkAAAAAAAAZCQAAAAAAAAAAAAAZCQAAAAAAABoJAAAAAAAAAAAAABoJAAAAAAAAHAkAAAAAAAAAAAAAFwkAAAAAAAAXCQAAAAAAAAIAAAAJCRcJAAAAAAAAGgkAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABYJAAAAAAAAFgkAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAABkJAAAAAAAAGgkAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABkJAAAAAAAAGQkAAAAAAAAAAAAAAIBbQA"
+				],
+				[
+					32,
+					1,
+					"paste",
+					null,
+					"AQAAABoJAAAAAAAAXAkAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABoJAAAAAAAAGgkAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "dom"
+					},
+					"BAAAAEMJAAAAAAAARAkAAAAAAAAAAAAARAkAAAAAAABECQAAAAAAABcAAABkb2N1bWVudGF0aW9uX3RocmVhZGluZ0QJAAAAAAAARQkAAAAAAAAAAAAARQkAAAAAAABGCQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAFoJAAAAAAAAQwkAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					36,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEUJAAAAAAAARQkAAAAAAAABAAAAbUQJAAAAAAAARAkAAAAAAAABAAAAbw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEYJAAAAAAAARgkAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "ocu"
+					},
+					"AwAAAEQJAAAAAAAARQkAAAAAAAAAAAAARQkAAAAAAABGCQAAAAAAAAAAAABGCQAAAAAAAEcJAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEQJAAAAAAAARAkAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					38,
+					4,
+					"left_delete",
+					null,
+					"BAAAAEYJAAAAAAAARgkAAAAAAAABAAAAdUUJAAAAAAAARQkAAAAAAAABAAAAY0QJAAAAAAAARAkAAAAAAAABAAAAb0MJAAAAAAAAQwkAAAAAAAABAAAAZA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEcJAAAAAAAARwkAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					41,
+					1,
+					"reload_auto_complete",
+					null,
+					"AQAAAEMJAAAAAAAAQwkAAAAAAAABAAAALw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEQJAAAAAAAARAkAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "docu"
+					},
+					"BAAAAEMJAAAAAAAARAkAAAAAAAAAAAAARAkAAAAAAABFCQAAAAAAAAAAAABFCQAAAAAAAEYJAAAAAAAAAAAAAEYJAAAAAAAARwkAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEMJAAAAAAAAQwkAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					45,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAAEMJAAAAAAAAQwkAAAAAAAAEAAAAZG9jdUMJAAAAAAAAYQkAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEcJAAAAAAAARwkAAAAAAAAAAAAAAADwvw"
+				]
+			]
 		}
 	],
 	"build_system": "lgdc covid 19 and malaria terminal",
@@ -799,12 +914,34 @@
 	},
 	"expanded_folders":
 	[
-		"/home/bruno/Documents/dev/learning-data-science/numpy",
-		"/home/bruno/Documents/dev/learning-data-science/data_visualization",
-		"/home/bruno/Documents/dev/learning-data-science/data_visualization/matplotlib"
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output"
 	],
 	"file_history":
 	[
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/lgdc-covid-19-and-malaria.sublime-project",
+		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_02_categorical_plots.py",
+		"/home/bruno/Documents/dev/learning-data-science/data_visualization/matplotlib/matplotlib.py",
+		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_01_distribution_plots.py",
+		"/home/bruno/Documents/dev/learning-data-science/pandas/02_dataframe.py",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed/data_01_AM_mun_especie/Estado/output_34.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed/data_01_AM_mun_especie/vivax/output_64.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed/data_01_AM_mun_especie/vivax/output_55.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed/data_01_AM_mun_especie/vivax/output_58.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed/data_01_AM_mun_especie/vivax/output_60.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed/data_01_AM_mun_especie/vivax/output_54.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed/data_01_AM_mun_especie/vivax/output_41.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed/data_01_AM_mun_especie/vivax/output_38.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed/data_01_AM_mun_especie/vivax/output_37.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed/data_01_AM_mun_especie/vivax/output_29.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed/data_01_AM_mun_especie/vivax/output_27.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed/data_01_AM_mun_especie/falciparum_vs_vivax/output_25.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed/data_01_AM_mun_especie/falciparum_vs_vivax/output_24.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed/data_01_AM_mun_especie/falciparum_vs_vivax/output_22.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed/data_01_AM_mun_especie/falciparum/output_28.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/compresed/data_01_AM_mun_especie/falciparum/output_26.png",
+		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/data_visualization_01_data_01_AM_mun_especie.py",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_03_data_analysis/output/output_04_data_07_brazil_indicators_02_with_states_and_cities.csv",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_02_convert_xlsx_to_csv/convert_xlsx_to_csv.py",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/output/data/output_01_CFs_by_city.csv",
@@ -814,22 +951,17 @@
 		"/home/bruno/Documents/dev/learning-data-science/requirements.txt",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_03_data_analysis/data_analysis_02.py",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_03_data_analysis/data_analysis.py",
-		"/home/bruno/Documents/dev/learning-data-science/pandas/02_dataframe.py",
 		"/home/bruno/Documents/dev/pibic_2020/requirements.txt",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_04/Covid_malaria_total_casos.csv",
 		"/home/bruno/Documents/dev/learning-data-science/numpy/arrays.py",
 		"/home/bruno/Documents/dev/learning-data-science/data_visualization/plotly/01_plotly.py",
-		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/lgdc-covid-19-and-malaria.sublime-project",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_03_data_analysis/data_analysis",
 		"/home/bruno/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_01_data_collection/data_02/HIST_PAINEL_COVIDBR_21mai2021.csv",
-		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/data_visualization_01_data_01_AM_mun_especie.py",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_04_data_visualization/plots.py",
 		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_06_styles_and_colors.py",
 		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_05_pairgrids.py",
 		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_04_regression_plots.py",
-		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_01_distribution_plots.py",
-		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_02_categorical_plots.py",
 		"/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_03_matricial_plots.py",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_03_data_analysis/output/output_01_data_01_AM_mun_especie.csv",
 		"/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/venv-lgdc-covid-19-and-malaria/lib/python3.8/site-packages/seaborn/categorical.py",
@@ -915,28 +1047,11 @@
 		"/home/bruno/Documents/dev/ecosim/interface/models/abstract_data_model.py",
 		"/home/bruno/Documents/dev/learning-flask/bootstrap/app.py",
 		"/home/bruno/Documents/dev/clone-price-of-chair-new/99_final/models/item.py",
-		"/home/bruno/Documents/dev/clone-rest-api-sections/section6/models/item.py",
-		"/home/bruno/Documents/dev/clone-rest-api-sections/section6/models/store.py",
-		"/home/bruno/Documents/dev/clone-rest-api-sections/section4/app.py",
-		"/home/bruno/Documents/dev/clone-price-of-chair-new/99_final/models/store.py",
-		"/home/bruno/Documents/dev/clone-rest-api-sections/section6/db.py",
-		"/home/bruno/Documents/dev/clone-rest-api-sections/section6/resources/item.py",
-		"/home/bruno/Documents/dev/ecosim/interface/pages/homepage/components/models.html",
-		"/home/bruno/Documents/dev/learning-html/coder/index.html",
-		"/home/bruno/Documents/dev/learning-css/README.md",
-		"/home/bruno/Documents/dev/learning-css/coder/heranca.html",
-		"/home/bruno/Documents/dev/learning-css/coder/especificidade1.html",
-		"/home/bruno/Documents/dev/learning-css/coder/seletores.html",
-		"/home/bruno/Documents/dev/learning-css/coder/flexbox1.html",
-		"/home/bruno/Documents/dev/learning-css/coder/flexbox2.html",
-		"/home/bruno/Documents/dev/learning-css/coder/flexbox3.html",
-		"/home/bruno/Documents/dev/learning-css/coder/flexboxMenu.html",
-		"/home/bruno/Documents/dev/learning-html/coder/poucoDeCSS.html",
-		"/home/bruno/Documents/dev/learning-html/coder/anatomiaHtml.html"
+		"/home/bruno/Documents/dev/clone-rest-api-sections/section6/models/item.py"
 	],
 	"find":
 	{
-		"height": 32.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -967,123 +1082,33 @@
 		[
 		],
 		"reverse": false,
+		"scrollbar_highlights": true,
 		"show_context": true,
 		"use_buffer2": true,
+		"use_gitignore": true,
 		"whole_word": false,
 		"wrap": true
 	},
 	"groups":
 	[
 		{
-			"selected": 20,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "lgdc-covid-19-and-malaria.sublime-project",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 178,
+						"buffer_size": 2533,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								178,
-								178
-							]
-						],
-						"settings":
-						{
-							"__vi_external_disable": true,
-							"auto_complete": false,
-							"auto_complete_commit_on_tab": false,
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone_locations":
-							{
-							},
-							"bracket_highlighter.ignore": true,
-							"color_scheme": "Terminus.hidden-color-scheme",
-							"default_dir": "/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/sprint_02_convert_xlsx_to_csv",
-							"draw_centered": false,
-							"draw_indent_guides": false,
-							"draw_unicode_white_space": false,
-							"draw_white_space": "none",
-							"font_size": 14,
-							"gutter": false,
-							"highlight_line": false,
-							"is_widget": true,
-							"line_padding_bottom": 0,
-							"line_padding_top": 0,
-							"rainbow_checked": true,
-							"result_base_dir": "/home/bruno/Documents/dev/lgdc-covid-19-and-malaria",
-							"result_file_regex": null,
-							"result_line_regex": null,
-							"rulers":
-							[
-							],
-							"scroll_past_end": true,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"terminus.highlight_counter": 127,
-							"terminus_view": true,
-							"terminus_view.args":
-							{
-								"auto_close": true,
-								"cancellable": false,
-								"cmd":
-								[
-									"/bin/bash",
-									"-i",
-									"-l"
-								],
-								"config_name": "Login Shell",
-								"cwd": "/home/bruno/Documents/dev/lgdc-covid-19-and-malaria",
-								"env":
-								{
-									"LANG": "en_US.UTF-8",
-									"TERM": "linux",
-									"TERMINUS_SUBLIME": "1",
-									"TERM_PROGRAM": "Terminus-Sublime"
-								},
-								"file_regex": null,
-								"line_regex": null,
-								"panel_name": null,
-								"tag": null,
-								"timeit": false,
-								"title": null
-							},
-							"terminus_view.cancellable": false,
-							"terminus_view.key.ctrl+k": true,
-							"terminus_view.key.ctrl+p": true,
-							"terminus_view.natural_keyboard": true,
-							"terminus_view.panel_name": null,
-							"terminus_view.tag": null,
-							"terminus_view.viewport_y": 48.0,
-							"word_wrap": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 48.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 21,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "sprint_04_data_visualization/data_visualization_01_data_01_AM_mun_especie.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10711,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5907,
-								5907
+								1344,
+								1344
 							]
 						],
 						"settings":
@@ -1093,12 +1118,27 @@
 							{
 								"close":
 								{
+									"1":
+									[
+										1687,
+										1688
+									]
 								},
 								"icon":
 								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
 								},
 								"open":
 								{
+									"1":
+									[
+										1120,
+										1121
+									]
 								},
 								"unmatched":
 								{
@@ -1106,46 +1146,6 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
@@ -1156,6 +1156,46 @@
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -1163,617 +1203,46 @@
 								"bh_double_quote_content"
 							],
 							"rainbow_checked": true,
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2715.0,
+						"translation.y": 1151.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 20,
+					"stack_index": 3,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"file": "compresed/data_01_AM_mun_especie/falciparum/output_26.png",
+					"file": "sprint_04_data_visualization/output/output_01.png",
 					"semi_transient": false,
-					"stack_index": 4,
+					"stack_index": 1,
+					"stack_multiselect": false,
 					"type": "image"
 				},
 				{
-					"file": "compresed/data_01_AM_mun_especie/falciparum/output_28.png",
-					"semi_transient": false,
-					"stack_index": 19,
-					"type": "image"
-				},
-				{
-					"file": "compresed/data_01_AM_mun_especie/falciparum_vs_vivax/output_22.png",
-					"semi_transient": false,
-					"stack_index": 9,
-					"type": "image"
-				},
-				{
-					"file": "compresed/data_01_AM_mun_especie/falciparum_vs_vivax/output_24.png",
-					"semi_transient": false,
-					"stack_index": 8,
-					"type": "image"
-				},
-				{
-					"file": "compresed/data_01_AM_mun_especie/falciparum_vs_vivax/output_25.png",
-					"semi_transient": false,
-					"stack_index": 6,
-					"type": "image"
-				},
-				{
-					"file": "compresed/data_01_AM_mun_especie/vivax/output_27.png",
-					"semi_transient": false,
-					"stack_index": 5,
-					"type": "image"
-				},
-				{
-					"file": "compresed/data_01_AM_mun_especie/vivax/output_29.png",
-					"semi_transient": false,
-					"stack_index": 15,
-					"type": "image"
-				},
-				{
-					"file": "compresed/data_01_AM_mun_especie/vivax/output_37.png",
-					"semi_transient": false,
-					"stack_index": 16,
-					"type": "image"
-				},
-				{
-					"file": "compresed/data_01_AM_mun_especie/vivax/output_38.png",
-					"semi_transient": false,
-					"stack_index": 17,
-					"type": "image"
-				},
-				{
-					"file": "compresed/data_01_AM_mun_especie/vivax/output_41.png",
-					"semi_transient": false,
-					"stack_index": 18,
-					"type": "image"
-				},
-				{
-					"file": "compresed/data_01_AM_mun_especie/vivax/output_54.png",
-					"semi_transient": false,
-					"stack_index": 14,
-					"type": "image"
-				},
-				{
-					"file": "compresed/data_01_AM_mun_especie/vivax/output_60.png",
-					"semi_transient": false,
-					"stack_index": 11,
+					"file": "sprint_04_data_visualization/output/final_correlaction.png",
+					"selected": true,
+					"semi_transient": true,
+					"stack_index": 0,
+					"stack_multiselect": false,
 					"type": "image"
 				},
 				{
 					"file": "compresed/data_01_AM_mun_especie/vivax/output_58.png",
 					"semi_transient": false,
-					"stack_index": 12,
-					"type": "image"
-				},
-				{
-					"file": "compresed/data_01_AM_mun_especie/vivax/output_55.png",
-					"semi_transient": false,
-					"stack_index": 13,
-					"type": "image"
-				},
-				{
-					"file": "compresed/data_01_AM_mun_especie/vivax/output_64.png",
-					"semi_transient": false,
-					"stack_index": 10,
-					"type": "image"
-				},
-				{
-					"file": "compresed/data_01_AM_mun_especie/Estado/output_34.png",
-					"semi_transient": false,
-					"stack_index": 7,
-					"type": "image"
-				},
-				{
-					"buffer": 2,
-					"file": "/home/bruno/Documents/dev/learning-data-science/pandas/02_dataframe.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8462,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7438,
-								7438
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
-							],
-							"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
-							"rainbow_checked": true,
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 9576.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_01_distribution_plots.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 658,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
-							],
-							"rainbow_checked": true,
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/home/bruno/Documents/dev/learning-data-science/data_visualization/matplotlib/matplotlib.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3413,
-						"regions":
-						{
-							"col_000000FF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										3228,
-										3233
-									]
-								],
-								"scope": "col_000000FF"
-							},
-							"col_000000FF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_000000FF_circle.png",
-								"regions":
-								[
-									[
-										3226,
-										3226
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_A4FC02FF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										3191,
-										3198
-									]
-								],
-								"scope": "col_A4FC02FF"
-							},
-							"col_A4FC02FF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_A4FC02FF_circle.png",
-								"regions":
-								[
-									[
-										3169,
-										3169
-									]
-								],
-								"scope": "col_gutter"
-							}
-						},
-						"selection":
-						[
-							[
-								795,
-								795
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
-							"rainbow_checked": true,
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1756.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/home/bruno/Documents/dev/learning-data-science/data_visualization/seaborn/example_02_categorical_plots.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1320,
-						"regions":
-						{
-							"col_000000FF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										1123,
-										1128
-									],
-									[
-										1207,
-										1212
-									]
-								],
-								"scope": "col_000000FF"
-							},
-							"col_000000FF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_000000FF_circle.png",
-								"regions":
-								[
-									[
-										1047,
-										1047
-									],
-									[
-										1154,
-										1154
-									]
-								],
-								"scope": "col_gutter"
-							}
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
-							],
-							"rainbow_checked": true,
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 630.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 2,
-					"type": "text"
+					"stack_multiselect": false,
+					"type": "image"
 				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 32.0
+		"height": 35.0
 	},
 	"input":
 	{
@@ -1842,7 +1311,7 @@
 	"project": "lgdc-covid-19-and-malaria.sublime-project",
 	"replace":
 	{
-		"height": 60.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1929,9 +1398,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "",
+		"last_filter": "learning-dis",
 		"selected_items":
 		[
+			[
+				"learning-dis",
+				"~/Documents/dev/learning-distributed-systems/learning-distributed-systems.sublime-project"
+			],
 			[
 				"",
 				"~/Documents/dev/ecosim/ecosim.sublime-project"
@@ -1968,7 +1441,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 361.0,
+	"side_bar_width": 382.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

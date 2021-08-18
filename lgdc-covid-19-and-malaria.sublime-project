@@ -90,6 +90,12 @@
 		},
 		{
 			"path": "../learning-data-science/data_visualization/"
+		},
+		{
+			"path": "../learning-distributed-systems/documentation_threading/"
+		},
+		{
+			"path": "../learning-distributed-systems/documentation_multiprocessing/"	
 		}
 	],
 	"python_interpreter": "/home/bruno/Documents/dev/lgdc-covid-19-and-malaria/venv-lgdc-covid-19-and-malaria/bin/python"
